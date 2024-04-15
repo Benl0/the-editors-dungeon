@@ -1,0 +1,22 @@
+---
+title:
+publish: true
+cssclasses:
+date: 2024-04-12
+type: note
+book: "[[Tashas Cauldron of Everything.pdf]]"
+page: 
+tags:
+    - DnD/Rules/Feats
+---
+
+##### Back: [[Feats]] || Book: [[Tashas Cauldron of Everything.pdf|Tasha's Cauldron of Everything]]
+
+# Skill Expert
+
+
+## Prequisite 
+None
+
+## Description
++1 in one ability, proficiency in one skill and expertise in one other in which you have proficiency.

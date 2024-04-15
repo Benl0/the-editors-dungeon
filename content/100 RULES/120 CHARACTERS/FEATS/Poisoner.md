@@ -1,0 +1,22 @@
+---
+title:
+publish: true
+cssclasses:
+date: 2024-04-12
+type: note
+book: "[[Tashas Cauldron of Everything.pdf]]"
+page: 
+tags:
+    - DnD/Rules/Feats
+---
+
+##### Back: [[Feats]] || Book: [[Tashas Cauldron of Everything.pdf|Tasha's Cauldron of Everything]]
+
+# Poisoner
+
+
+## Prequisite 
+None
+
+## Description
+Proficiency with poisoner's kit, apply as a bonus action and your attacks ignore resistance to poison damage.
