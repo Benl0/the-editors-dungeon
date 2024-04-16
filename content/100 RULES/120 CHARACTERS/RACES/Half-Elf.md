@@ -11,7 +11,7 @@ tags:
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 38
 
-![[half-elf.png|500]]
+![[half-elf.png|300]]
 
 # Traits
 ## General
@@ -23,10 +23,10 @@ tags:
 | Speed       | 30ft                             |
 | Language(s) | [[Languages\|Common, Elvish +1]] |
 ## Abilities
-| Type                             | Effect / Description                                                              |
-| -------------------------------- | --------------------------------------------------------------------------------- |
-| [[Darkvision Trait\|Darkvision]] | See 60ft in dim light, but only in black and white                                |
-| Fey Ancestry                     | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
+| Type                                                         | Effect / Description                                                              |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | See 60ft in dim light, but only in black and white                                |
+| Fey Ancestry                                                 | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
 
 ## Proficiencies
 | Type            | Effect / Description                                                         |

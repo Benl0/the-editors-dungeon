@@ -11,7 +11,7 @@ tags:
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 32
 
-![[dragonborn.png|500]]
+![[dragonborn.png|300]]
 
 # Traits
 ## General

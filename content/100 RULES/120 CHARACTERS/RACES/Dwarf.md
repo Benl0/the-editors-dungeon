@@ -11,25 +11,25 @@ tags:
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 18
 
-![[dwarf.png|500]]
+![[dwarf.png|300]]
 
 # Traits
 ## General
-| Type        | Effect / Description     |
-| ----------- | ------------------------ |
-| Age         | 350 years average        |
-| Alignment   | Lawful                   |
-| Size        | 4-5ft (medium)           |
-| Speed       | 25ft                     |
-| Language(s) | [[Common]], [[Dwarvish]] |
+| Type        | Effect / Description            |
+| ----------- | ------------------------------- |
+| Age         | 350 years average               |
+| Alignment   | Lawful                          |
+| Size        | 4-5ft (medium)                  |
+| Speed       | 25ft                            |
+| Language(s) | [[Languages\|Common, Dwarvish]] |
 
 ## Abilities
 
-| Type                                     | Effect / Description                                                               |
-| ---------------------------------------- | ---------------------------------------------------------------------------------- |
-| [[Abilities#Constitution\|Constitution]] | +2 to your Constitution score                                                      |
-| [[Darkvision Trait\|Darkvision]]         | See 60ft in dim light, but only black and white                                    |
-| Dwarven Resilience                       | Advantage on saving throws against poison<br>plus resistance against poison damage |
+| Type                                                         | Effect / Description                                                               |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| [[Abilities#Constitution\|Constitution]]                     | +2 to your Constitution score                                                      |
+| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | See 60ft in dim light, but only black and white                                    |
+| Dwarven Resilience                                           | Advantage on saving throws against poison<br>plus resistance against poison damage |
 
 ## Proficiencies
 

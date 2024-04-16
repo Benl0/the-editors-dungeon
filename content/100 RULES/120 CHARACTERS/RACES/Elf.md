@@ -11,7 +11,7 @@ tags:
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 21
 
-![[elf.png|500]]
+![[elf.png|300]]
 
 # Traits
 ## General
@@ -23,12 +23,12 @@ tags:
 | Speed       | 30ft                          |
 | Language(s) | [[Languages\|Common, Elvish]] |
 ## Abilities
-| Type                               | Effect / Description                                                              |
-| ---------------------------------- | --------------------------------------------------------------------------------- |
-| [[Abilities#Dexterity\|Dexterity]] | +2 to your Dexterity score                                                        |
-| [[Darkvision Trait\|Darkvision]]   | See 60ft in dim light, but only in black and white                                |
-| Fey Ancestry                       | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
-| Trance                             | Elves don't need to sleep. They meditate for 4 hours a day                        |
+| Type                                                         | Effect / Description                                                              |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [[Abilities#Dexterity\|Dexterity]]                           | +2 to your Dexterity score                                                        |
+| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | See 60ft in dim light, but only in black and white                                |
+| Fey Ancestry                                                 | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
+| Trance                                                       | Elves don't need to sleep. They meditate for 4 hours a day                        |
 ## Proficiencies
 | Type        | Effect / Description                                                          |
 | ----------- | ----------------------------------------------------------------------------- |
@@ -56,12 +56,12 @@ Choose one of these as your origin.
 
 ## Dark Elf (Drow)
 
-| Type                                      | Effect/Description                                                                                                                                                                                                                                           |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Abilities#Charisma\|Charisma]]          | +1 to your Charisma score                                                                                                                                                                                                                                    |
-| [[Darkvision Trait\|Superior Darkvision]] | Your darkvision has a radius of 120ft                                                                                                                                                                                                                        |
-| Sunlight Sensitivity                      | Disadvantage on attack and [[Abilities#Wisdom\|Wisdom]] checks that rely on sight<br>when you, your target or what you're trying to perceive is direct sunlight.                                                                                             |
-| Drow Magic                                | You know the [[Dancing Lights]] [[Cantrip]].<br>At 3rd level, you can cast [[Faerie Fire]] once per day.<br>At 5th level you can cast the [[Darkness]] spell once per day.<br>[[Abilities#Charisma\|Charisma]] is your spellcasting ability for these spells |
-| Drow Weapon Training                      | Proficiency with:<br>Rapiers<br>Shortswords<br>Hand Crossbows                                                                                                                                                                                                |
+| Type                                                                  | Effect/Description                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Abilities#Charisma\|Charisma]]                                      | +1 to your Charisma score                                                                                                                                                                                                                                    |
+| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Superior Darkvision]] | See 120ft in dim light, but only in black and white                                                                                                                                                                                                          |
+| Sunlight Sensitivity                                                  | Disadvantage on attack and [[Abilities#Wisdom\|Wisdom]] checks that rely on sight<br>when you, your target or what you're trying to perceive is direct sunlight.                                                                                             |
+| Drow Magic                                                            | You know the [[Dancing Lights]] [[Cantrip]].<br>At 3rd level, you can cast [[Faerie Fire]] once per day.<br>At 5th level you can cast the [[Darkness]] spell once per day.<br>[[Abilities#Charisma\|Charisma]] is your spellcasting ability for these spells |
+| Drow Weapon Training                                                  | Proficiency with:<br>Rapiers<br>Shortswords<br>Hand Crossbows                                                                                                                                                                                                |
 
 

@@ -11,7 +11,7 @@ page: 29
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 29
 
-![[human.png|500]]
+![[human.png|300]]
 
 # Traits
 ## General

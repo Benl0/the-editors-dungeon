@@ -29,7 +29,7 @@ tags:
 ## Abilities
 | Type                             | Effect / Description                                                                                                                                         |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Darkvision Trait\|Darkvision]] | See 60ft in dim light, but only black and white                                                                                                              |
+| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision|Darkvision]] | See 60ft in dim light, but only black and white                                                                                                              |
 | Languages of the Hedgerow        | Can communicate simple ideas to small or smaller creatures native to: forests, woods, meadows, grasslands, deserts, wetlands and where rabbits are native to |
 | Graceful Athlete                 | You can use your [[Abilities#Dexterity\|Dexterity]] score in place of [[Abilities#Strength\|Strength]] for all [[Skills#Athletics\|Athletics]] checks        |
 | Powerful Jumper                  | You can use your [[Abilities#Dexterity\|Dexterity]] score in place of [[Abilities#Strength\|Strength]] for Jumping                                           |
