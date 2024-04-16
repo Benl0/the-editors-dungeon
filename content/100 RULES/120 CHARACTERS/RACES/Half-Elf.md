@@ -1,47 +1,35 @@
 ---
 title: 
-publish: false
-cssclass: 
+publish: true
+cssclasses: 
 date: 2024-04-15 11:47
 type: race
 book: "[[Players Handbook.pdf]]"
-page: 
-tags: 
+page: 38
+tags:
+  - DnD/Races/Half-Elf
 ---
-##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 38
+
+![[half-elf.png|500]]
 
 # Traits
 ## General
-| Type        | Effect / Description |
-| ----------- | -------------------- |
-| Age         |                      |
-| Alignment   |                      |
-| Size        |                      |
-| Speed       |                      |
-| Language(s) |                      |
+| Type        | Effect / Description             |
+| ----------- | -------------------------------- |
+| Age         | Up to 180-200 years              |
+| Alignment   | Often chaotic                    |
+| Size        | 5-6ft (Medium)                   |
+| Speed       | 30ft                             |
+| Language(s) | [[Languages\|Common, Elvish +1]] |
 ## Abilities
-| Type | Effect / Description |
-| ---- | -------------------- |
-|      |                      |
-|      |                      |
+| Type                             | Effect / Description                                                              |
+| -------------------------------- | --------------------------------------------------------------------------------- |
+| [[Darkvision Trait\|Darkvision]] | See 60ft in dim light, but only in black and white                                |
+| Fey Ancestry                     | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
+
 ## Proficiencies
-| Type         | Effect / Description                                                             |
-| ------------ | -------------------------------------------------------------------------------- |
-|              |                                                                                  |
-
----
-# Sub-races
-Choose one of these as your origin.
-## n1
-
-| Type | Effect/Description |
-| ---- | ------------------ |
-|      |                    |
-## n2
-
-| Type     | Effect/Description |
-| -------- | ------------------ |
-|  |                  |
-
-
+| Type            | Effect / Description                                                         |
+| --------------- | ---------------------------------------------------------------------------- |
+| Skill Versality | You gain [[Proficiency Bonus\|proficiency]] in two [[Skills]] of your choice |
 

@@ -10,6 +10,9 @@ tags:
   - DnD/Races/Halfling
 ---
 ##### Back: [[Races]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 26
+
+![[halfling.png|500]]
+
 # Traits
 ## General
 | Type        | Effect / Description            |

@@ -12,8 +12,8 @@ tags:
 ##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 17
 *A race describes a character's born self, from Human to Orc and much more.*
 
-> [!missing]+ This page is incomplete
-> I will be adding the rest of the races as I go on
+> [!info] This page will grow
+> *There are many races in the Forgotten Realms. You can't hope to know all of them in one day.*
 
 # Player's Handbook
 
