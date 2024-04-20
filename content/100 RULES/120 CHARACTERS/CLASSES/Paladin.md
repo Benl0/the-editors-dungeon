@@ -1,7 +1,7 @@
 ---
 title: 
 publish: true
-cssclasses:
+cssclass:
   - dashboard
 date: 2024-04-11 12:32
 type: class

@@ -1,7 +1,7 @@
 ---
 title:
 publish: true
-cssclasses:
+cssclass:
 date: 2024-04-12
 type: note
 book: "[[Xanathars Guide to Everything.pdf]]"

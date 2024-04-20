@@ -1,5 +1,5 @@
 ---
-cssclasses: 
+cssclass: 
 date: 2024-04-05 16:34
 publish: false
 type: pc

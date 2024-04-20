@@ -1,7 +1,7 @@
 ---
 title: 
 publish: true
-cssclasses: 
+cssclass: 
 date: 2024-03-21 07:29
 type: note
 book: "[[Players Handbook.pdf]]"

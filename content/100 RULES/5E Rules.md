@@ -1,7 +1,7 @@
 ---
 title: D&D 5E Rules
 publish: true
-cssclasses:
+cssclass:
   - dashboard
 date: 2024-04-06 08:53
 type: moc

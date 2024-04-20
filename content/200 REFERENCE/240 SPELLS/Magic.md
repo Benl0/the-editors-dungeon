@@ -1,105 +1,21 @@
 ---
-cssclass:
-  - cards
-  - cards-1-1
-  - cards-cols-4
-date: 2024-03-03 16:05
+title: 
 publish: true
+cssclasses: 
+date: 2024-04-20 18:59
 type: moc
+book: 
+page: 
 tags:
-  - DnD/Reference
-back: "[[Reference MOC]]"
+  - DnD/Spells
 ---
-Back: 
-
-> [!BUG] This page is incomplete
-
-
-> [!INFO]- Conjuration
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('conjuration'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Necromancy
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('necromancy'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Evocation
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('evocation'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Abjuration
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('abjuration'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Transmutation
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('transmutation'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Divination
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('divination'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Enchantment
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('enchantment'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
-> [!INFO]- Illusion
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains('illusion'))
-> 
-> dv.table(["Name", "Level", "Classes"], bestiaryArray.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class]))
-> ```
-
----
-
-> [!INFO]- Search
-> ```dataviewjs
-> const bestiary = FantasyStatblocks.getBestiary();
-> const bestiaryArray = dv.array(Array.from(bestiary.values())).filter(m => m.school).where(m => m.school.toLowerCase().contains(''))
-> 
-> dv.el("bold", "Input: ")
-> const inputField = dv.el('input', "input field")
-> inputField.focus()
-> 
-> /* Fake table for show */
-> dv.table(["Name", "Level", "Classes", "School"], [])
-> 
-> inputField.addEventListener('input', async (event) => {
-> 	this.container.lastChild.remove()
-> 	dv.table(["Name", "Level", "Classes", "School"], 
-> 		bestiaryArray
-> 			.filter(m => m.name)
-> 			.filter(m => m.name.toLowerCase().includes(inputField.value.toLowerCase()))
-> 		.map((spell) => [dv.fileLink(spell.name), spell.level, spell.class, spell.school]))	
-> });
-> ```
-
+##### Back:  [[5E Rules]]
+# Secrets of the World
+- [Evocation](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Evocation)
+- [Transmutation](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Transmutation)
+- [Conjuration](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Conjuration)
+- [Abjuration](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Abjuration)
+- [Enchantment](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Enchantment)
+- [Necromancy](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Necromancy)
+- [Divination](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Divination)
+- [Illusion](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Illusion)

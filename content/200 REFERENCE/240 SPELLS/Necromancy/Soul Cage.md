@@ -1,0 +1,66 @@
+---
+title: Soul Cage
+publish: true
+cssclass:
+  - dashboard
+date: 2024-04-20 18:30
+type: magic
+book: "Xanathars Guide to Everything.pdf"
+page: 165
+tags:
+  - DnD/Spells/Necromancy
+  - DnD/Spells/Class/Wizard
+  - DnD/Spells/Class/Warlock
+
+
+---
+
+##### Back: [[Magic]] || Book: [Xanathars Guide to Everything](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 165
+
+# Soul Cage
+
+- **Casting:**
+    - **Casting Time:** 1 reaction, which you take when a humanoid you can see within 60 feet of you dies
+    - **Duration:** 8 hours
+    - **Range:** 60 feet
+    - **Ritual:** No
+    - **Concentration:** No
+- **Classes:**
+    - [[Wizard]]
+    - [[Warlock]]
+
+- **Info:**
+    - **Level:** 6th
+    - **School:** Necromancy
+- **Components:**
+    - VSMgp
+    - A tiny silver cage worth 100 gp
+
+## Description:
+This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.\n- **Steal Life.** You can use a bonus action to drain vigor from the soul and regain 2d8 hit points.\n- **Query Soul.** You ask the soul a question (no action re-quired) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.\n- **Borrow Experience.** You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.\n- **Eyes of the Dead.** You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.\n\nA creature that can see the sensor (such as one using see invisibility or truesight) sees a translucent image of the tormented humanoid whose soul you caged.
+
+
+
+---
+
+> [!BUG]- GM's Corner
+>
+> ```statblock
+> layout: Spells
+> source: "Xanathars Guide to Everything"
+> name: "Soul Cage"
+> image: 
+> level: "6th"
+> school: "Necromancy"
+> class: "Wizard,Warlock"
+> duration: "8 hours"
+> ritual: "No"
+> casting_time: "1 reaction, which you take when a humanoid you can see within 60 feet of you dies"
+> range: "60 feet"
+>
+> components: VSMgp
+> comp_m: "a tiny silver cage worth 100 gp"
+>
+> description: "This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.\n- **Steal Life.** You can use a bonus action to drain vigor from the soul and regain 2d8 hit points.\n- **Query Soul.** You ask the soul a question (no action re-quired) and receive a brief telepathic answer, which you can understand regardless of the language used. The soul knows only what it knew in life, but it must answer you truthfully and to the best of its ability. The answer is no more than a sentence or two and might be cryptic.\n- **Borrow Experience.** You can use a bonus action to bolster yourself with the soul's life experience, making your next attack roll, ability check, or saving throw with advantage. If you don't use this benefit before the start of your next turn, it is lost.\n- **Eyes of the Dead.** You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were concentrating on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.\n\nA creature that can see the sensor (such as one using see invisibility or truesight) sees a translucent image of the tormented humanoid whose soul you caged."
+> higher_level: ""
+> ```

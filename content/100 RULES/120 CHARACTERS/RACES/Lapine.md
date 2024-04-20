@@ -1,7 +1,7 @@
 ---
 title: 
 publish: true
-cssclasses: 
+cssclass: 
 date: 2024-04-03 11:08
 type: race
 source: "[D&D Wiki](https://www.dandwiki.com/wiki/Lapine_(5e_Race))"

@@ -32,7 +32,9 @@ Back: [[index|Home]]
 # Memes
 - An NPC is on a quest to find their son. Join the party but find out they died because of something the NPC did/had them do. Some time later, while reflecting on the son’s birthday… *play ‘Leaves from the vine’*
 - Mr blobby 
-- Diggy Diggy Hole dwarven band 
+- Diggy Diggy Hole dwarven band
+	-  [Wind Rose Orchestral version](https://open.spotify.com/track/6HjXV0YPaBMKMW3yi0mEIp?si=a46557e4d3b54af2)
+- Tetris style battle with [Tetris track](https://open.spotify.com/track/4DCmAHZzFzdLgqx0qAKVMB?si=51efa5743dd449ce)
 
 # Music
 - Plenty of pre-made playlists on spotify 
@@ -45,6 +47,6 @@ Back: [[index|Home]]
 	- Hades (?) 
 	- Westworld (more for inspiration)
 	- Game Of Thrones 
-	- Bauldurs Gate 
+	- Baldurs Gate 
 
 Really getting the sense to plan and script around pieces of music. Really editorialise it

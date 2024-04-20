@@ -1,7 +1,7 @@
 ---
 title: 
 publish: true
-cssclasses: 
+cssclass: 
 date: 2024-04-15 11:48
 type: race
 book: "[[Players Handbook.pdf]]"

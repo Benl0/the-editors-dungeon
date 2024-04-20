@@ -1,7 +1,7 @@
 ---
 title: 
 publish: false
-cssclasses: 
+cssclass: 
 date: 2024-04-12 14:21
 type: note
 book: 
