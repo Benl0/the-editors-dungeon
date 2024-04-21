@@ -8,9 +8,9 @@ page:
 tags:
   - DnD
   - TED/Garde/Countries
-back: "[[Garde]]"
+back: "[[Garde World]]"
 ---
-Back: [[Garde]]
+Back: [[Garde World]]
 # The Liebe Empyrium
 A reluctant ally of [[Verlust]], but only out of necessity for the economic trade.
 > [!info]+ Map

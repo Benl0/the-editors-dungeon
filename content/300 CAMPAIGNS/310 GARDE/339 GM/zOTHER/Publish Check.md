@@ -10,9 +10,10 @@ tags:
   - GM
 ---
 ##### Back:  || Book:  || Page: 
-# Heading
+# Notes that are not published
 
 ```dataview
 TABLE
+file.etags as "Tags"
 WHERE publish = false
 ```

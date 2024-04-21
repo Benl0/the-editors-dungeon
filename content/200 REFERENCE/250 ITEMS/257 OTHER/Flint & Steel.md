@@ -6,7 +6,7 @@ type: other
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/Other"
-back: "[[other]]"
+back: "[[Other Items]]"
 stablock: inline
 ---
 Back: 

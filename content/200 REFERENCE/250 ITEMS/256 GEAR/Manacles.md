@@ -6,7 +6,7 @@ type: adventuring gear
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/adventuring-gear"
-back: "[[adventuring gear]]"
+back: "[[Adventuring Gear]]"
 stablock: inline
 ---
 Back: 

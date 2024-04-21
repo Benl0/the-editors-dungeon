@@ -40,8 +40,8 @@ tags:
 
 ## Description:
 You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.
-The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
+The duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.
 
 | Material              | Duration   |
 | --------------------- | ---------- |
@@ -76,6 +76,6 @@ When you cast this spell using a spell slot of 6th level or higher, the cube inc
 > components: VSM
 > comp_m: "a tiny piece of matter of the same type of the item you plan to create"
 >
-> description: "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.\nThe duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.\n- Vegetable matter: 1 day\n- Stone or crystal: 12 hours\n- Precious metals: 1 hour\n- Gems: 10 minutes\n- Adamantine or mithral: 1 minute\nUsing any material created by this spell as another spell's material component causes that spell to fail."
+> description: "You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube, and the object must be of a form and material that you have seen before.\n\nThe duration depends on the object's material. If the object is composed of multiple materials, use the shortest duration.\n\n- Vegetable matter: 1 day\n\n- Stone or crystal: 12 hours\n\n- Precious metals: 1 hour\n\n- Gems: 10 minutes\n\n- Adamantine or mithral: 1 minute\n\nUsing any material created by this spell as another spell's material component causes that spell to fail."
 > higher_level: "When you cast this spell using a spell slot of 6th level or higher, the cube increases by 5 feet for each slot level above 5th."
 > ```

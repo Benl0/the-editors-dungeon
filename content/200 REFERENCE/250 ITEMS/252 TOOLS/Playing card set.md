@@ -6,7 +6,7 @@ type: tools
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/tools"
-back: "[[tools]]"
+back: "[[Tools]]"
 stablock: inline
 ---
 Back: 

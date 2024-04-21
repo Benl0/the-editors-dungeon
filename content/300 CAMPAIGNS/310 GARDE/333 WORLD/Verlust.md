@@ -10,7 +10,7 @@ tags:
   - DnD
   - TED/Garde/Countries
 ---
-##### Back: [[Garde]]
+##### Back: [[Garde World]]
 # Kingdom of Verlust
 A rich and prosperous kingdom, Verlust has benefitted from hundreds of years of growth. Not only do they have easy access to trading partners in the South with [[Gathela]] and [[Enos]], but the capital, [[Verlust#Haven|Haven]], controls [[Reve's Crossing]]. A dangerous but incredibly important water strait, connecting North and South Garde.
 

@@ -6,7 +6,7 @@ type: armour
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/armour"
-back: "[[armour]]"
+back: "[[Armour]]"
 stablock: inline
 ---
 Back: 

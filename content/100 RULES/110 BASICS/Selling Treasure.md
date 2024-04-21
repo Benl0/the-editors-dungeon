@@ -6,7 +6,7 @@ type: note
 book: "[[Players Handbook.pdf135]]"
 tags:
   - DnD/Rules/Equipment
-back: "[[5e Rules]]"
+back: "[[5E Rules]]"
 ---
 Back: 
 # Selling

@@ -35,7 +35,9 @@ tags:
 
 
 ## Description:
-You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.\nWhen you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
+You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.
+
+When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
 
 
@@ -59,6 +61,6 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 > components: VS
 > comp_m: ""
 >
-> description: "You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.\nWhen you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends."
+> description: "You have resistance to acid, cold, fire, lightning, and thunder damage for the spell's duration.\n\nWhen you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends."
 > higher_level: ""
 > ```

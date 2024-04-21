@@ -11,7 +11,9 @@ tags:
 back: "[[Reference MOC]]"
 ---
 Back: 
-# Defence items
+# items
+
+
 
 > [!INFO]- Armour
 > ```dataviewjs

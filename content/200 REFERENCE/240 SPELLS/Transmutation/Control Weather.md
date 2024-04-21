@@ -40,8 +40,11 @@ tags:
 
 ## Description:
 You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.
-When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 x 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal.
-When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
+
+ When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 x 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal. 
+
+ When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.
+
 
 ### Precipitation
 
@@ -95,6 +98,6 @@ When you change the weather conditions, find a current condition on the followin
 > components: VSM
 > comp_m: "burning incense and bits of earth and wood mixed in water"
 >
-> description: "You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.\n When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 x 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal. \n When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.\n**Temperature**\n- 1: Unbearable heat\n- 2: Hot\n- 3: Warm\n- 4: Cool\n- 5: Cold\n- 6: Arctic cold\n**Wind**\n- 1: Calm\n- 2: Moderate wind\n- 3: Strong wind\n- 4: Gale\n- 5: Storm\n**Precipitation**\n- 1: Clear\n- 2: Light clouds\n- 3: Overcast or ground fog\n- 4: Rain, hail, or snow\n- 5: Torrential rain, driving hail, or blizzard"
+> description: "You take control of the weather within 5 miles of you for the duration. You must be outdoors to cast this spell. Moving to a place where you don't have a clear path to the sky ends the spell early.\n\n When you cast the spell, you change the current weather conditions, which are determined by the DM based on the climate and season. You can change precipitation, temperature, and wind. It takes 1d4 x 10 minutes for the new conditions to take effect. Once they do so, you can change the conditions again. When the spell ends, the weather gradually returns to normal. \n\n When you change the weather conditions, find a current condition on the following tables and change its stage by one, up or down. When changing the wind, you can change its direction.\n\n**Temperature**\n\n- 1: Unbearable heat\n\n- 2: Hot\n\n- 3: Warm\n\n- 4: Cool\n\n- 5: Cold\n\n- 6: Arctic cold\n\n**Wind**\n\n- 1: Calm\n\n- 2: Moderate wind\n\n- 3: Strong wind\n\n- 4: Gale\n\n- 5: Storm\n\n**Precipitation**\n\n- 1: Clear\n\n- 2: Light clouds\n\n- 3: Overcast or ground fog\n\n- 4: Rain, hail, or snow\n\n- 5: Torrential rain, driving hail, or blizzard"
 > higher_level: ""
 > ```

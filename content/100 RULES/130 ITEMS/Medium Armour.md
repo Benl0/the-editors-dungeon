@@ -1,16 +1,15 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-02 21:21
 publish: true
 type: item
-book: "[[Players Handbook.pdf135]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Items/Armour
-back: "[[Reference MOC]]"
+back: "[[Armour]]"
 ---
-Back: 
+##### Back: [[Armour]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 145
 
----
 
 > [!INFO] Refer to the [[Armour]] rules for how to use this note
 

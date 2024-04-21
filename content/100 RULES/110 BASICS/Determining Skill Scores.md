@@ -6,7 +6,7 @@ type: note
 draft: false
 tags:
   - DnD/Rules/Stats
-back: "[[5e Rules]]"
+back: "[[5E Rules]]"
 ---
 Back: 
 

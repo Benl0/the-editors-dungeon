@@ -43,14 +43,14 @@ tags:
     - Fur or a feather from a beast
 
 ## Description:
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
+You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. 
 
-**Bear's Endurance:** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
-**Bull's Strength:** The target has advantage on Strength checks, and his or her carrying capacity doubles.
-**Cat's Grace:** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
-**Eagle's Splendor:** The target has advantage on Charisma checks.
-**Fox's Cunning:** The target has advantage on Intelligence checks.
-**Owl's Wisdom:** The target has advantage on Wisdom checks.
+1. **Bear's Endurance.** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends. 
+2. **Bull's Strength.** The target has advantage on Strength checks, and his or her carrying capacity doubles. 
+3. **Cat's Grace.** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated. 
+4. **Eagle's Splendor.** The target has advantage on Charisma checks. 
+5. **Fox's Cunning.** The target has advantage on Intelligence checks. 
+6. **Owl's Wisdom.** The target has advantage on Wisdom checks.
 
 ## At Higher Levels:
 When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
@@ -75,6 +75,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 > components: VSM
 > comp_m: "fur or a feather from a beast"
 >
-> description: "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. \n**Bear's Endurance:** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends. \n**Bull's Strength:** The target has advantage on Strength checks, and his or her carrying capacity doubles. \n**Cat's Grace:** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated. \n**Eagle's Splendor:** The target has advantage on Charisma checks. \n**Fox's Cunning:** The target has advantage on Intelligence checks. \n**Owl's Wisdom:** The target has advantage on Wisdom checks."
+> description: "You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. \n\n**Bear's Endurance:** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends. \n\n**Bull's Strength:** The target has advantage on Strength checks, and his or her carrying capacity doubles. \n\n**Cat's Grace:** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated. \n\n**Eagle's Splendor:** The target has advantage on Charisma checks. \n\n**Fox's Cunning:** The target has advantage on Intelligence checks. \n\n**Owl's Wisdom:** The target has advantage on Wisdom checks."
 > higher_level: "When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd."
 > ```

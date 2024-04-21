@@ -6,7 +6,7 @@ type: wondrous items
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/Wondrous-Items"
-back: "[[wondrous items]]"
+back: "[[Wondrous Items]]"
 stablock: inline
 ---
 Back: 

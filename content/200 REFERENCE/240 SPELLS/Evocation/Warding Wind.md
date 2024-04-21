@@ -41,7 +41,19 @@ tags:
 
 
 ## Description:
-A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration. \n- It deafens you and other creatures in its area.\n- It extinguishes unprotected flames in its area that are torch-sized or smaller.\n- The area is difficult terrain for creatures other than you.\n- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.\n- It hedges out vapor, gas, and fog that can be dispersed by strong wind.\n
+A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration. 
+
+- It deafens you and other creatures in its area.
+
+- It extinguishes unprotected flames in its area that are torch-sized or smaller.
+
+- The area is difficult terrain for creatures other than you.
+
+- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.
+
+- It hedges out vapor, gas, and fog that can be dispersed by strong wind.
+
+
 
 
 
@@ -65,6 +77,6 @@ A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves
 > components: V
 > comp_m: ""
 >
-> description: "A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration. \n- It deafens you and other creatures in its area.\n- It extinguishes unprotected flames in its area that are torch-sized or smaller.\n- The area is difficult terrain for creatures other than you.\n- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.\n- It hedges out vapor, gas, and fog that can be dispersed by strong wind.\n"
+> description: "A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration. \n\n- It deafens you and other creatures in its area.\n\n- It extinguishes unprotected flames in its area that are torch-sized or smaller.\n\n- The area is difficult terrain for creatures other than you.\n\n- The attack rolls of ranged weapon attacks have disadvantage if they pass in or out of the wind.\n\n- It hedges out vapor, gas, and fog that can be dispersed by strong wind.\n\n"
 > higher_level: ""
 > ```

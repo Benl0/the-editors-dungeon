@@ -6,7 +6,8 @@ type:
 tags:
   - Sessions/<%tp.date.now("YYYY")%>/<%tp.date.now("MM")%>
   - TED
-back:
+back: 
+world:
 ---
 Last Modified (mday:: `= this.file.mday`)
 

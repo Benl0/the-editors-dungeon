@@ -37,7 +37,9 @@ tags:
     - Gem-encrusted bowl worth at least 1,000 gp, which the spell consumes
 
 ## Description:
-You bring forth a great feast, including magnificent food and drink. The feast takes I hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.\nA creature that partakes Of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
+You bring forth a great feast, including magnificent food and drink. The feast takes I hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.
+
+A creature that partakes Of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.
 
 
 
@@ -61,6 +63,6 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 > components: VSMgp
 > comp_m: "gem-encrusted bowl worth at least 1,000 gp, which the spell consumes"
 >
-> description: "You bring forth a great feast, including magnificent food and drink. The feast takes I hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.\nA creature that partakes Of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours."
+> description: "You bring forth a great feast, including magnificent food and drink. The feast takes I hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve other creatures can partake of the feast.\n\nA creature that partakes Of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being frightened, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours."
 > higher_level: ""
 > ```

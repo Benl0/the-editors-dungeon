@@ -19,7 +19,7 @@ Back:
 - ### Proficiencies
 	- **Armour:** 
 		- [[Light Armour]]
-		- [[Medium armour]]
+		- [[Medium Armour]]
 		- [[Shields]]
 	- **Weapons:** 
 		- [[Simple Weapons]]

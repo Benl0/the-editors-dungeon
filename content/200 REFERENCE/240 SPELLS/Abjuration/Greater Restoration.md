@@ -41,7 +41,19 @@ tags:
     - Diamond dust worth at least 100 gp, which the spell consumes
 
 ## Description:
-You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:\n\n- One effect that charmed or petrified the target\n- One curse, including the target's attunement to a cursed magic item\n- Any reduction to one of the target's ability scores\n- One effect reducing the target's hit point maximum\n
+You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
+
+
+
+- One effect that charmed or petrified the target
+
+- One curse, including the target's attunement to a cursed magic item
+
+- Any reduction to one of the target's ability scores
+
+- One effect reducing the target's hit point maximum
+
+
 
 
 
@@ -65,6 +77,6 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 > components: VSMgp
 > comp_m: "diamond dust worth at least 100 gp, which the spell consumes"
 >
-> description: "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:\n\n- One effect that charmed or petrified the target\n- One curse, including the target's attunement to a cursed magic item\n- Any reduction to one of the target's ability scores\n- One effect reducing the target's hit point maximum\n"
+> description: "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:\n\n\n\n- One effect that charmed or petrified the target\n\n- One curse, including the target's attunement to a cursed magic item\n\n- Any reduction to one of the target's ability scores\n\n- One effect reducing the target's hit point maximum\n\n"
 > higher_level: ""
 > ```

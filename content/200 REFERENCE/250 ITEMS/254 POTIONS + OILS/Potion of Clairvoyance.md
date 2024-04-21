@@ -6,7 +6,7 @@ type: potions oils
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/potions-oils"
-back: "[[potions oils]]"
+back: "[[Potions Oils]]"
 stablock: inline
 ---
 Back: 

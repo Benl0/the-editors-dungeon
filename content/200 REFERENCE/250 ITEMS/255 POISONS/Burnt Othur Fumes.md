@@ -6,7 +6,7 @@ type: poisons
 book: "[[Players Handbook.pdf]]"
 tags:
   - "#DnD/Items/poisons"
-back: "[[poisons]]"
+back: "[[Poisons]]"
 stablock: inline
 ---
 Back: 

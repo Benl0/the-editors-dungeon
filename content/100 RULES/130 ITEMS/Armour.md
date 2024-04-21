@@ -1,17 +1,17 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-02 20:59
 publish: true
 type: note
-book: "[[Players Handbook.pdf135]]"
+book: "[[Players Handbook.pdf]]"
 tags:
   - DnD/Rules
-back: "[[5e Rules]]"
+back: "[[5E Rules]]"
+page: 145
 ---
-Back: 
+##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 145
 
----
-# Armour
+# Wear this, Don't die
 In D&D 5e, armour lets you increase your [[Armour Class|AC]] by providing a higher base stat than 10.
 ## Armour Proficiency
 - Wearing armour you don't have proficiency in results in disadvantage in:
@@ -27,3 +27,5 @@ In D&D 5e, armour lets you increase your [[Armour Class|AC]] by providing a high
 - [[Medium Armour]]: a balance, offering a little more protection.
 - [[Heavy Armour]]: full protection, requiring immense strength to wear.
 
+> [!important] All Shields and Armour
+> - [Armour](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Items/armour)

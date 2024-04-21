@@ -35,7 +35,13 @@ tags:
     - A sapphire worth 1,000gp
 
 ## Description:
-You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.\n At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances. and the spell ends.\nIf another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn Who the creature possessing the object is and roughly where that creature is located at that moment.\nDispel magic or a similar effect successfully applied to the sapphire ends this spell's effect.
+You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.
+
+ At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances. and the spell ends.
+
+If another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn Who the creature possessing the object is and roughly where that creature is located at that moment.
+
+Dispel magic or a similar effect successfully applied to the sapphire ends this spell's effect.
 
 
 
@@ -59,6 +65,6 @@ You touch an object weighing 10 pounds or less whose longest dimension is 6 feet
 > components: VSMgp
 > comp_m: "a sapphire worth 1,000gp"
 >
-> description: "You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.\n At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances. and the spell ends.\nIf another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn Who the creature possessing the object is and roughly where that creature is located at that moment.\nDispel magic or a similar effect successfully applied to the sapphire ends this spell's effect."
+> description: "You touch an object weighing 10 pounds or less whose longest dimension is 6 feet or less. The spell leaves an invisible mark on its surface and invisibly inscribes the name of the item on the sapphire you use as the material component. Each time you cast this spell, you must use a different sapphire.\n\n At any time thereafter, you can use your action to speak the item's name and crush the sapphire. The item instantly appears in your hand regardless of physical or planar distances. and the spell ends.\n\nIf another creature is holding or carrying the item, crushing the sapphire doesn't transport the item to you, but instead you learn Who the creature possessing the object is and roughly where that creature is located at that moment.\n\nDispel magic or a similar effect successfully applied to the sapphire ends this spell's effect."
 > higher_level: ""
 > ```

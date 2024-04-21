@@ -37,7 +37,9 @@ tags:
     - A melee weapon worth at least 1 sp
 
 ## Description:
-You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.\nYou can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
+You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.
+
+You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
 
 
 
@@ -61,6 +63,6 @@ You flourish the weapon used in the casting and then vanish to strike like the w
 > components: SMgp
 > comp_m: "a melee weapon worth at least 1 sp"
 >
-> description: "You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.\nYou can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed."
+> description: "You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.\n\nYou can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed."
 > higher_level: ""
 > ```

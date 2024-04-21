@@ -13,7 +13,7 @@ tags:
 # Test your Mettle
 > [!BUG] This page is incomplete 
 
-This is where you character's [[Abilities]] and [[Skills]] are used. Where the harsh [[Garde|World]] tests them until they succeed, or fail...
+This is where you character's [[Abilities]] and [[Skills]] are used. Where the harsh [[Garde World|World]] tests them until they succeed, or fail...
 
 An Ability Check can happen at any point using the most relevant Ability or Skill. Ultimately, that decision is up to the GM's discretion. 
 Common situations for an Ability Check include:
