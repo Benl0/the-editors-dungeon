@@ -25,10 +25,10 @@ tags:
 	- [[Long Rest]]
 	- [[Short Rest]]
 - ## Characters
-	- [[Classes]]
 	- [[Races]]
-	- [[Backgrounds]]
+	- [[Classes]]
 	- [[Features]]
+	- [[Backgrounds]]
 	- [[Feats]]
 	- [[Alignment]]
 	- [[Languages]]

@@ -8,5 +8,11 @@ type: moc
 tags:
   - TED/Garde/GM
 ---
-##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
-# Heading
+##### Back: [[Garde MOC]]
+
+- ## Planning
+	- [[Campaign Ideas]]
+	- [[Story Beats]]
+- ## Reference
+	- [[Plugins]]
+
