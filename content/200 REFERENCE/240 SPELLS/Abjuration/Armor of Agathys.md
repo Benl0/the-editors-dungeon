@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 215
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Warlock
-
 
 ---
 

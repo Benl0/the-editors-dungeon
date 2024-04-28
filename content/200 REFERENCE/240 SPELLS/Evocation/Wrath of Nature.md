@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 171
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

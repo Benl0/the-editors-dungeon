@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 156
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Paladin
-
 
 ---
 

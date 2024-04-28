@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 221
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Paladin
-
 
 ---
 

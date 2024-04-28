@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 272
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Cleric
-
 
 ---
 

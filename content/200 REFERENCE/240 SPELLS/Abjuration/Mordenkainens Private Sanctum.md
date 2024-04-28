@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 262
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Artificer
-
 
 ---
 
@@ -37,19 +37,14 @@ tags:
     - A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite
 
 ## Description:
-You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. Thc spell lasts for the duration or until you use an action to dismiss it. When you cast the spell, you decide what sort of security the spell provides, choosing any or all Of the following properties:
+You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it. When you cast the spell, you decide what sort of security the spell provides, choosing any or all of the following properties:
 
-- Sound can't pass through the barrier at the edge of the warded area.
-
-- The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
-
-- Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-
-- Creatures in the area can't be targeted by divination spells.
-
-- Nothing can teleport into or out of the warded area.
-
-- Planar travel is blocked within the warded area.
+1. Sound can't pass through the barrier at the edge of the warded area.
+2. The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
+3. Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+4. Creatures in the area can't be targeted by divination spells.
+5. Nothing can teleport into or out of the warded area.
+6. Planar travel is blocked within the warded area.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 

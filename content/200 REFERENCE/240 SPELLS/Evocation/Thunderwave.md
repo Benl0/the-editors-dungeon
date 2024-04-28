@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 282
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Bard
-
 
 ---
 

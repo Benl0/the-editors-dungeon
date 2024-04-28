@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 262
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv7
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Bard
-
 
 ---
 

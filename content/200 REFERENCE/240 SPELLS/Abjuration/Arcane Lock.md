@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 215
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

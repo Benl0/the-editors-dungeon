@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 161
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
-
 
 ---
 

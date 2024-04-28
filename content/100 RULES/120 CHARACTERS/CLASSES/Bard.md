@@ -39,8 +39,8 @@ tags:
 	2. a [[Longsword]]
 	3. any [Simple Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Simple)
 - Either:
-	1. a [[Diplomats pack]]
-	2. an [[Entertainers pack]]
+	1. a [[Packs#Diplomat's Pack|Diplomat's Pack]]
+	2. an [[Packs#Entertainer's Pack|Entertainer's pack]]
 - Either:
 	1. a [[Lute]]
 	2. any other musical instrument

@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 240
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Paladin
-
 
 ---
 

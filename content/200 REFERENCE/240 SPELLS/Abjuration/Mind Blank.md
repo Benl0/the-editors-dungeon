@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 259
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Bard
-
 
 ---
 

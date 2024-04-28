@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 244
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv9
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Bard
-
 
 ---
 

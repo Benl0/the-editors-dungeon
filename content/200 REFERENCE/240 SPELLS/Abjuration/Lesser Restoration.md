@@ -9,13 +9,13 @@ book: "Players Handbook.pdf"
 page: 255
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

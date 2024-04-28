@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 272
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Artificer
-
 
 ---
 

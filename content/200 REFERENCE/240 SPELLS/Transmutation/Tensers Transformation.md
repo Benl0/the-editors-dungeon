@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 168
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
-
 
 ---
 

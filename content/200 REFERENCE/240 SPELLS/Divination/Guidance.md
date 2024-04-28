@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 248
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Artificer
-
 
 ---
 

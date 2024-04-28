@@ -9,11 +9,11 @@ book: "Xanathars Guide to Everything.pdf"
 page: 165
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

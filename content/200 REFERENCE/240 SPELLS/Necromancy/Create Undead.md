@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 229
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Cleric
-
 
 ---
 

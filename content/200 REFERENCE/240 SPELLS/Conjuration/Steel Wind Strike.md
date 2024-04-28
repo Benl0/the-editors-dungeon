@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 166
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Ranger
-
 
 ---
 

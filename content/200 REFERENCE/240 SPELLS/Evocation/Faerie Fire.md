@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 239
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

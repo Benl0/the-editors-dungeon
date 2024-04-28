@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 219
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
-
 
 ---
 

@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 220
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Druid
-
 
 ---
 
@@ -41,7 +41,7 @@ When you cast the spell, choose a point you can see within range. A bolt of ligh
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
-## At Higher Levels:
+## At Higher Levels: 
 When you cast this spell using a spell slot of 4th or higher level, the damage increases by 1d10 for each slot level above 3rd.
 
 ---

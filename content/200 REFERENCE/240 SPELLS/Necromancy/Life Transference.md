@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 160
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Cleric
-
 
 ---
 

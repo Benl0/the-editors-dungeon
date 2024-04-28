@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 160
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
-
 
 ---
 

@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 238
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Bard
-
 
 ---
 

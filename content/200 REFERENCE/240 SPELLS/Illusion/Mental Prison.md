@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 161
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

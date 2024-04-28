@@ -9,11 +9,11 @@ book: "Xanathars Guide to Everything.pdf"
 page: 163
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

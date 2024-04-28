@@ -9,6 +9,7 @@ book: "Players Handbook.pdf"
 page: 231
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Ranger
@@ -17,7 +18,6 @@ tags:
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

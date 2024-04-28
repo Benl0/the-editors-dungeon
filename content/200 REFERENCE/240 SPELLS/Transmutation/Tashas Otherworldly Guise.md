@@ -9,10 +9,10 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 116
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

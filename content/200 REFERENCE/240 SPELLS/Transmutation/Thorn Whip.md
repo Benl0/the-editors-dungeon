@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 282
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

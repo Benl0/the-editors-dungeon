@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 237
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
-
 
 ---
 

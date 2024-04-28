@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 244
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

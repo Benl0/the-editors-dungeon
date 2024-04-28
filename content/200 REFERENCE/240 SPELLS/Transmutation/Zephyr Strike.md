@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 171
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
-
 
 ---
 

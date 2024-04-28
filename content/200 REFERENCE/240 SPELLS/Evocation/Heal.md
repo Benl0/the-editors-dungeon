@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 250
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
-
 
 ---
 

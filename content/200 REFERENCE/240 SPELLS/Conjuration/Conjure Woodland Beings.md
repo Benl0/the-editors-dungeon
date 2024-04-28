@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 226
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 
@@ -39,13 +39,10 @@ tags:
 ## Description:
 You summon fey creatures that appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears: 
 
-- One fey creature of challenge rating 2 or lower
-
-- Two fey creatures of challenge rating 1 or lower
-
-- Four fey creatures of challenge rating 1/2 or lower
-
-- Eight fey creatures of challenge rating 1/4 or lower
+1. One fey creature of challenge rating 2 or lower
+2. Two fey creatures of challenge rating 1 or lower
+3. Four fey creatures of challenge rating 1/2 or lower
+4. Eight fey creatures of challenge rating 1/4 or lower
 
  A summoned creature disappears when it drops to 0 hit points or when the spell ends. 
 

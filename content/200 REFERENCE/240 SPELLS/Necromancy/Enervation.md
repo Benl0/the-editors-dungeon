@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 155
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

@@ -9,11 +9,11 @@ book: "Xanathars Guide to Everything.pdf"
 page: 158
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
-
 
 ---
 

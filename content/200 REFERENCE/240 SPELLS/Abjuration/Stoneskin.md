@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 278
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

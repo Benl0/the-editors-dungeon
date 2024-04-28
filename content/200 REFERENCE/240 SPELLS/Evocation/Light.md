@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 255
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

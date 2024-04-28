@@ -9,12 +9,12 @@ book: "Xanathars Guide to Everything.pdf"
 page: 156
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

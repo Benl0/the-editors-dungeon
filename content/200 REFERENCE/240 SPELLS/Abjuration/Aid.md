@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 211
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Artificer
-
 
 ---
 

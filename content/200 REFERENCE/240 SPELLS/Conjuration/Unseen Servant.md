@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 284
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Bard
-
 
 ---
 

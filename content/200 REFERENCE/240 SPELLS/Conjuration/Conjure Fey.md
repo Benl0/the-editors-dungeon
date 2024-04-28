@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 226
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Druid
-
 
 ---
 

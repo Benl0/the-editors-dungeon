@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 243
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Cleric
-
 
 ---
 

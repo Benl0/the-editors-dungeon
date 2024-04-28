@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 217
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

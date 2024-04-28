@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 218
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Bard
-
 
 ---
 

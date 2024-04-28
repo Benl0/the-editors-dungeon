@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 238
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Artificer
-
 
 ---
 

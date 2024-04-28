@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 157
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

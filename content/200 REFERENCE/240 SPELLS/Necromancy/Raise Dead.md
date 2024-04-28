@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 270
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

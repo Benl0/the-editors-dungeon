@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 284
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

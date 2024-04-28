@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 285
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Bard
-
 
 ---
 

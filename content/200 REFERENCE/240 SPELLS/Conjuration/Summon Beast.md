@@ -9,9 +9,9 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 109
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

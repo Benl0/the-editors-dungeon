@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 157
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

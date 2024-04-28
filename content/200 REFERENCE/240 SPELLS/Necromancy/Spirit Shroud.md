@@ -9,11 +9,11 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 108
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

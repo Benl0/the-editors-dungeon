@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 272
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv7
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

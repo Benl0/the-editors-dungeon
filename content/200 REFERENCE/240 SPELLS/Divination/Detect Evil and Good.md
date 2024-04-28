@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 231
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

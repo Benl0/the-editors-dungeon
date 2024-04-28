@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 230
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

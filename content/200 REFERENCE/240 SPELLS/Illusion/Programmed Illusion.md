@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 269
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Bard
-
 
 ---
 

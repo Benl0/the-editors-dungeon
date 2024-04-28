@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 285
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
-
 
 ---
 

@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 234
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Cleric
-
 
 ---
 

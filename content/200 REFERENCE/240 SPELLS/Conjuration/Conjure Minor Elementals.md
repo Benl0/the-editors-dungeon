@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 226
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Druid
-
 
 ---
 
@@ -39,13 +39,10 @@ tags:
 ## Description:
 You summon elementals that appear in unoccupied spaces that you can see within range. You choose one the following options for what appears: 
 
-- One elemental of challenge rating 2 or lower
-
-- Two elementals of challenge rating 1 or lower
-
-- Four elementals of challenge rating 1/2 or lower
-
-- Eight elementals of challenge rating 1/4 or lower.
+1. One elemental of challenge rating 2 or lower
+2. Two elementals of challenge rating 1 or lower
+3. Four elementals of challenge rating 1/2 or lower
+4. Eight elementals of challenge rating 1/4 or lower.
 
  An elemental summoned by this spell disappears when it drops to 0 hit points or when the spell ends. 
 

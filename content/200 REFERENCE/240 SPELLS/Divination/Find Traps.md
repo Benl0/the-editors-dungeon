@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 241
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
-
 
 ---
 

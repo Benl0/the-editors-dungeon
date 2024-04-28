@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 233
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

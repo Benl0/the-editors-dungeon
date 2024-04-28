@@ -9,13 +9,13 @@ book: "Players Handbook.pdf"
 page: 256
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

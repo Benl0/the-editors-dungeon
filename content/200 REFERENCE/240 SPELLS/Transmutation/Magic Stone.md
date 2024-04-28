@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 160
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

@@ -7,11 +7,11 @@ tags:
   - Sessions/<%tp.date.now("YYYY")%>/<%tp.date.now("MM")%>
   - TED
 back: 
-world:
+world: 
+system:
 ---
-Last Modified (mday:: `= this.file.mday`)
+##### Back:  
 
----
 # Session n.
 
 

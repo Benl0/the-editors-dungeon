@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 251
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Bard
-
 
 ---
 

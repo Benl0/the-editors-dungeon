@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 211
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Artificer
-
 
 ---
 

@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 275
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Druid
-
 
 ---
 

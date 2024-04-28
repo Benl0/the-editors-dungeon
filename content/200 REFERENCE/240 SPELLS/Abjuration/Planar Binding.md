@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 265
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

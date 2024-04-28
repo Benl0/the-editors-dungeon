@@ -19,6 +19,7 @@ In D&D 5e, armour lets you increase your [[Armour Class|AC]] by providing a high
 	- Saving throws
 	- Attack rolls involving Strength or Dexterity
 	- Can't cast spells
+
 ## Shields
 - Only one shield may be equipped at one time
 - Using a shield increase AC by 2

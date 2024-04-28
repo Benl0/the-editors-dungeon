@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 289
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

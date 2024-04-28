@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 222
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

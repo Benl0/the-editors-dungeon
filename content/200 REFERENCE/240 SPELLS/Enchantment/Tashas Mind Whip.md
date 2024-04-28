@@ -9,9 +9,9 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 115
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

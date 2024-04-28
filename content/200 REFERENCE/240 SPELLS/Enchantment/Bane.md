@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 216
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

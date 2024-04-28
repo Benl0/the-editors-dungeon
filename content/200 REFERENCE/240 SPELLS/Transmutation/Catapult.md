@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 150
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Artificer
-
 
 ---
 

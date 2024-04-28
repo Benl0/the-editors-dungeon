@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 269
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Druid
-
 
 ---
 

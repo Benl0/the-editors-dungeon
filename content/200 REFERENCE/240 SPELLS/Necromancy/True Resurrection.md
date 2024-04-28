@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 284
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv9
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
-
 
 ---
 

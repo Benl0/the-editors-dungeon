@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 252
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
-
 
 ---
 

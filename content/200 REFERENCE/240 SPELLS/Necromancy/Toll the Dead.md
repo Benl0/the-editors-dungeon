@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 169
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Cleric
-
 
 ---
 

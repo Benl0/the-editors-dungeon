@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 230
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Artificer
-
 
 ---
 

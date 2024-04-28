@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 251
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
-
 
 ---
 

@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 228
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
-
 
 ---
 

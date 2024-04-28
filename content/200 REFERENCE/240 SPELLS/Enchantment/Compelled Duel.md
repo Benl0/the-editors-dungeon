@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 224
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Paladin
-
 
 ---
 

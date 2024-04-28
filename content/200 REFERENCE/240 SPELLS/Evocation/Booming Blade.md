@@ -9,11 +9,11 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 106
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Artificer
-
 
 ---
 

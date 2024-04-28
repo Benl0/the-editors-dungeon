@@ -9,9 +9,9 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 112
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
-
 
 ---
 

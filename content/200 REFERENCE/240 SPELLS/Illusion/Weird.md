@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 288
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv9
   - DnD/Spells/Class/Wizard
-
 
 ---
 

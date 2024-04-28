@@ -9,12 +9,12 @@ book: "Xanathars Guide to Everything.pdf"
 page: 151
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Bard
-
 
 ---
 

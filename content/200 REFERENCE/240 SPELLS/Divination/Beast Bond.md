@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 150
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

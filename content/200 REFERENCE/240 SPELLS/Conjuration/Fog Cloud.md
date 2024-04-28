@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 243
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

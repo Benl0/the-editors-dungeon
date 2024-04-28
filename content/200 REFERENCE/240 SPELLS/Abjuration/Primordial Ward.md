@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 163
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Druid
-
 
 ---
 

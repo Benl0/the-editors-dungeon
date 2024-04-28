@@ -11,6 +11,7 @@ tags:
   - DnD
   - TED/Garde
 world: garde
+system: 5e
 ---
 ##### Back: [[index|Home]]
 # Lore
@@ -24,12 +25,12 @@ world: garde
 	- [[Haruto]]
 	- Jordan
 	- [[Pascal]]
-	- [[John]]
+	- [[Maximus Ironshielf]]
 	- Steph
 	- [[Alaric]]
 
 # Sessions
-1. Small beginnings
+1. [[1.0 Small Beginnings]]
 
 
 ---

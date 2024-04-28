@@ -40,6 +40,9 @@ tags:
 	- [[Initiative]]
 	- [[Action]]
 - ## Magic
+	- [[Spell Level]]
+	- [[Prepared Spells]]
+	- [[Spell casting]]
 - ## Weapons
 	- [[Weapon Properties]]
 	- [[Damage Type]]

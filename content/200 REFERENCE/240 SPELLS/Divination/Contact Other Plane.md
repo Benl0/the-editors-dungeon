@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 226
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
-
 
 ---
 

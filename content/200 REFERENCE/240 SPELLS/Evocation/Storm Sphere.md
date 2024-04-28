@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 166
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

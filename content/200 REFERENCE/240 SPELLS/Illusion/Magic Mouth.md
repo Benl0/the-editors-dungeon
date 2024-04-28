@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 257
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

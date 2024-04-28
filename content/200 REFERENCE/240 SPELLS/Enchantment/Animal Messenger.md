@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 212
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Bard
-
 
 ---
 

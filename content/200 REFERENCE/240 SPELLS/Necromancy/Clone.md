@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 222
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
-
 
 ---
 

@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 277
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Artificer
-
 
 ---
 

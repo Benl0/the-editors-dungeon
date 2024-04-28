@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 246
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 
@@ -43,15 +43,10 @@ tags:
 ## Description:
 You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:
 
-
-
-- One effect that charmed or petrified the target
-
-- One curse, including the target's attunement to a cursed magic item
-
-- Any reduction to one of the target's ability scores
-
-- One effect reducing the target's hit point maximum
+1. One effect that charmed or petrified the target
+2. One curse, including the target's attunement to a cursed magic item
+3. Any reduction to one of the target's ability scores
+4. One effect reducing the target's hit point maximum
 
 
 
@@ -75,7 +70,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 > range: "Touch"
 >
 > components: VSMgp
-> comp_m: "diamond dust worth at least 100 gp, which the spell consumes"
+> comp_m: " diamond dust worth at least 100 gp, which the spell consumes"
 >
 > description: "You imbue a creature you touch with positive energy to undo a debilitating effect. You can reduce the target's exhaustion level by one, or end one of the following effects on the target:\n\n\n\n- One effect that charmed or petrified the target\n\n- One curse, including the target's attunement to a cursed magic item\n\n- Any reduction to one of the target's ability scores\n\n- One effect reducing the target's hit point maximum\n\n"
 > higher_level: ""

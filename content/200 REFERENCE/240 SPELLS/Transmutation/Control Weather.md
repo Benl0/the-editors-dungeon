@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 228
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
-
 
 ---
 
@@ -76,6 +76,7 @@ You take control of the weather within 5 miles of you for the duration. You must
 | 3     | Strong wind   |
 | 4     | Gale          |
 | 5     | Storm         |
+
 
 
 ---

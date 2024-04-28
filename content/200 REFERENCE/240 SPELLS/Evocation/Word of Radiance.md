@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 171
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Cleric
-
 
 ---
 

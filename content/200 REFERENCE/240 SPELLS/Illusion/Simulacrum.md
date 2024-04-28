@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 276
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv7
   - DnD/Spells/Class/Wizard
-
 
 ---
 

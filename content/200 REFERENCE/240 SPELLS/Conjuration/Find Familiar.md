@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 240
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
-
 
 ---
 

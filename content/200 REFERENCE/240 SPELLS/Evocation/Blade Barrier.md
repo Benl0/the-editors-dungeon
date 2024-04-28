@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 218
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Cleric
-
 
 ---
 

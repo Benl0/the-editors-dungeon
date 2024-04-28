@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 275
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
-
 
 ---
 

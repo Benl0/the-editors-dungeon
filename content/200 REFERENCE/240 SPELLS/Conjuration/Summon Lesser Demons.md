@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 167
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
-
 
 ---
 
@@ -39,12 +39,6 @@ tags:
 ## Description:
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
 
-
-| d6  | Demons Summoned                               |
-| --- | --------------------------------------------- |
-| 1-2 | Two demons of challenge rating 1 or lower     |
-| 3-4 | Four demons of challenge rating 1/2 or lower  |
-| 5-6 | Eight demons of challenge rating 1/4 or lower |
 
 
 The DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to hit points or when the spell ends.

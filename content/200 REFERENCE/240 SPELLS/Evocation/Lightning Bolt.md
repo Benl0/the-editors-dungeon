@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 255
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv3
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

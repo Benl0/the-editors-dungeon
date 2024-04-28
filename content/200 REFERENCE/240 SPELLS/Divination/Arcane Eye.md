@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 214
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv4
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

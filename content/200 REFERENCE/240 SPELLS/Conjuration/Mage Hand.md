@@ -9,12 +9,12 @@ book: "Players Handbook.pdf"
 page: 256
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

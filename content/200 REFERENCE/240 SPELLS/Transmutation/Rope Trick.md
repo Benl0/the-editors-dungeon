@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 272
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

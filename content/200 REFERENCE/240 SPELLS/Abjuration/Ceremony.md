@@ -9,9 +9,9 @@ book: "Xanathars Guide to Everything.pdf"
 page: 151
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

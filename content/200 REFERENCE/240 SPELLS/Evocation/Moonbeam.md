@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 261
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Druid
-
 
 ---
 

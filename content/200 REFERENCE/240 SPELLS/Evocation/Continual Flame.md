@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 227
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Artificer
-
 
 ---
 

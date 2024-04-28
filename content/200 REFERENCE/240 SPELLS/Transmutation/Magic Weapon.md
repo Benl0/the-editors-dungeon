@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 257
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Artificer
-
 
 ---
 

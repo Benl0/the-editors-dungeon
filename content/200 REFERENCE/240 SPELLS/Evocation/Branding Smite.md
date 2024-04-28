@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 219
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Paladin
-
 
 ---
 

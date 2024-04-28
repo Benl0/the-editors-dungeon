@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 163
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Lv7
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

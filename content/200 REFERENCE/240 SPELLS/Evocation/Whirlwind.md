@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 171
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv7
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Druid
-
 
 ---
 

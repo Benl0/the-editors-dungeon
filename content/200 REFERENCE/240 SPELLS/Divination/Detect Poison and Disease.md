@@ -9,11 +9,11 @@ book: "Players Handbook.pdf"
 page: 231
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
-
 
 ---
 

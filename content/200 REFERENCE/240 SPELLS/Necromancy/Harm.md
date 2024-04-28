@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 249
 tags:
   - DnD/Spells/Necromancy
+  - DnD/Spells/Lv6
   - DnD/Spells/Class/Cleric
-
 
 ---
 

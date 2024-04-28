@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 287
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Artificer
-
 
 ---
 

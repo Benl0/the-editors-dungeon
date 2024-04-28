@@ -9,8 +9,8 @@ book: "Xanathars Guide to Everything.pdf"
 page: 157
 tags:
   - DnD/Spells/Illusion
+  - DnD/Spells/Lv8
   - DnD/Spells/Class/Wizard
-
 
 ---
 

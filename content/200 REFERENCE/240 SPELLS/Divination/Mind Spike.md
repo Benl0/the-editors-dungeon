@@ -9,10 +9,10 @@ book: "Xanathars Guide to Everything.pdf"
 page: 162
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

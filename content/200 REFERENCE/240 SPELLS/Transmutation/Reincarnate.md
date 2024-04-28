@@ -9,8 +9,8 @@ book: "Players Handbook.pdf"
 page: 271
 tags:
   - DnD/Spells/Transmutation
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Druid
-
 
 ---
 
@@ -55,6 +55,7 @@ The magic fashions a new body for the creature to inhabit, which likely causes t
 | 69-76  | Stout Halfling     |
 | 77-96  | Human              |
 | 97-100 | Tiefling           |
+
 
 The reincarnated creature recalls its former life and experiences. It retains the capabilities it had in its original form, except it exchanges its original race for the new one and changes its racial traits accordingly.
 

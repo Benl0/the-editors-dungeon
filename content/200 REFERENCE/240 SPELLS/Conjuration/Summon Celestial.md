@@ -9,9 +9,9 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 110
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv5
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Cleric
-
 
 ---
 

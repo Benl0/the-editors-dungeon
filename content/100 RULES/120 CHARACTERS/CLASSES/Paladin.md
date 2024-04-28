@@ -49,8 +49,8 @@ tags:
 	- 5 [[Javelin]]
 	- Any [melee](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Melee) [Simple Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Simple):
 - Either:
-	- [[Priests pack]]
-	- [[Explorers pack]]
+	- [[Packs#Priest's Pack|Priest's Pack]]
+	- [[Packs#Explorer's Pack|Explorer's Pack]]
 - [[Chain Mail]]
 - [[Holy Symbol]]
 
@@ -79,3 +79,7 @@ tags:
 | 19th  |          +6           |         Ability Score Improvement          |  4  |  3  |  3  |  3  |  2  |
 | 20th  |          +6           |            Sacred Oath feature             |  4  |  3  |  3  |  3  |  2  |
 
+
+> [!EXAMPLE] The Paladin
+> - [Features](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Features/Paladin)
+> - [Magic](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Class/Paladin)

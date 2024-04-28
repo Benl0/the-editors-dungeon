@@ -9,10 +9,10 @@ book: "Tashas Cauldron of Everything.pdf"
 page: 108
 tags:
   - DnD/Spells/Enchantment
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Warlock
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

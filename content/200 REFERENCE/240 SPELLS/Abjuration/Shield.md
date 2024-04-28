@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 275
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
-
 
 ---
 

@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 264
 tags:
   - DnD/Spells/Abjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Druid
-
 
 ---
 

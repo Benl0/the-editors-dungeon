@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 231
 tags:
   - DnD/Spells/Divination
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Bard
-
 
 ---
 

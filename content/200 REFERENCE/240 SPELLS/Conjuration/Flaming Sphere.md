@@ -9,9 +9,9 @@ book: "Players Handbook.pdf"
 page: 242
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Lv2
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Druid
-
 
 ---
 

@@ -9,13 +9,13 @@ book: "Players Handbook.pdf"
 page: 230
 tags:
   - DnD/Spells/Evocation
+  - DnD/Spells/Lv1
   - DnD/Spells/Class/Ranger
   - DnD/Spells/Class/Paladin
   - DnD/Spells/Class/Druid
   - DnD/Spells/Class/Cleric
   - DnD/Spells/Class/Bard
   - DnD/Spells/Class/Artificer
-
 
 ---
 

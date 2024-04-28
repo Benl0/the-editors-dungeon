@@ -9,10 +9,10 @@ book: "Players Handbook.pdf"
 page: 211
 tags:
   - DnD/Spells/Conjuration
+  - DnD/Spells/Cantrip
   - DnD/Spells/Class/Wizard
   - DnD/Spells/Class/Sorcerer
   - DnD/Spells/Class/Artificer
-
 
 ---
 
