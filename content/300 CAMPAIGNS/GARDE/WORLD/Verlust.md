@@ -1,7 +1,7 @@
 ---
 title: 
 aliases: 
-publish: false
+publish: true
 cssclasses: 
 date: 2024-03-26 08:26
 type: location
