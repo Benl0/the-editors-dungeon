@@ -2,7 +2,7 @@
 title: 
 aliases:
   - Ku
-publish: false
+publish: true
 cssclasses: 
 date: 2024-05-01 18:31
 type: pc

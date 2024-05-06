@@ -2,7 +2,7 @@
 title: Factions
 aliases:
   - Factions
-publish: false
+publish: true
 cssclasses: 
 date: 2024-05-06 12:06
 type: moc
