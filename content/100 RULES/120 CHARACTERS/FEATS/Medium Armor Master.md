@@ -15,7 +15,7 @@ tags:
 # Medium Armor Master
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with medium armor
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Mobile
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

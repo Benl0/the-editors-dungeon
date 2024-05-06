@@ -15,7 +15,7 @@ tags:
 # Dwarf Fortitude
 
 
-## Prequisite 
+## Prerequisite 
 Dwarf
 
 ## Description

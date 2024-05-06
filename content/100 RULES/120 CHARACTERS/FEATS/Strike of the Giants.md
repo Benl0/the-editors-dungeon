@@ -15,7 +15,7 @@ tags:
 # Strike of the Giants
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with a martial weapon or Giant Foundling background
 
 ## Description

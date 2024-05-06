@@ -15,7 +15,7 @@ tags:
 # Gift of the Gem Dragon
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

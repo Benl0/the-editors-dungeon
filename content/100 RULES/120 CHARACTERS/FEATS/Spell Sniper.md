@@ -15,7 +15,7 @@ tags:
 # Spell Sniper
 
 
-## Prequisite 
+## Prerequisite 
 The ability to cast at least one spell
 
 ## Description

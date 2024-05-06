@@ -15,7 +15,7 @@ tags:
 # Second Chance
 
 
-## Prequisite 
+## Prerequisite 
 Halfling
 
 ## Description

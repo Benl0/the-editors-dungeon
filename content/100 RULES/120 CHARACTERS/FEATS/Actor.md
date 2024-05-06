@@ -15,7 +15,7 @@ tags:
 # Actor
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

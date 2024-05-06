@@ -15,7 +15,7 @@ tags:
 # Grappler
 
 
-## Prequisite 
+## Prerequisite 
 Strength 13 or higher
 
 ## Description

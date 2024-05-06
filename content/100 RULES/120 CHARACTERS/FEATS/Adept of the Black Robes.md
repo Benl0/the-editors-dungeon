@@ -15,7 +15,7 @@ tags:
 # Adept of the Black Robes
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Initiate of High Sorcery (Nuitari) feat
 
 ## Description

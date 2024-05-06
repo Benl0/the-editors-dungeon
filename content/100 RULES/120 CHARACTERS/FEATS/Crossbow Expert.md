@@ -15,7 +15,7 @@ tags:
 # Crossbow Expert
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

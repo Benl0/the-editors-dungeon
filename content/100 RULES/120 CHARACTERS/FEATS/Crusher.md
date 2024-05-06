@@ -15,7 +15,7 @@ tags:
 # Crusher
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

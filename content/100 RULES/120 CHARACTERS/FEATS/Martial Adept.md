@@ -15,7 +15,7 @@ tags:
 # Martial Adept
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

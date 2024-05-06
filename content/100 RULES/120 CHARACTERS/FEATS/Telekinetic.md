@@ -15,7 +15,7 @@ tags:
 # Telekinetic
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

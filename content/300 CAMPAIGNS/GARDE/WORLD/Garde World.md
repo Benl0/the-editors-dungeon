@@ -5,11 +5,11 @@ cssclasses:
 date: 2024-03-18 12:13
 type: note
 tags:
-  - DnD
-  - TED/Garde
-world: garde
+  - Garde
+world: Garde
+campaign: Garde
 ---
-##### Back: [[Garde MOC|Garde]]
+##### Back: [[Garde|Garde]]
 
 > [!error] This page is incomplete
 > This page and the following pages are prone to change

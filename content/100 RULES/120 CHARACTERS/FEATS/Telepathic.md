@@ -15,7 +15,7 @@ tags:
 # Telepathic
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

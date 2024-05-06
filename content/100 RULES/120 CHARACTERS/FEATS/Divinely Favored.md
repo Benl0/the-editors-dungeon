@@ -15,7 +15,7 @@ tags:
 # Divinely Favored
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Dragonlance Campaign
 
 ## Description

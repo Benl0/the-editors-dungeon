@@ -15,7 +15,7 @@ tags:
 # Alert
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

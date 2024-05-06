@@ -15,7 +15,7 @@ tags:
 # Heavy Armor Master
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with heavy armor
 
 ## Description

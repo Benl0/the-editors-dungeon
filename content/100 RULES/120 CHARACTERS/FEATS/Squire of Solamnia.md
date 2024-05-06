@@ -15,7 +15,7 @@ tags:
 # Squire of Solamnia
 
 
-## Prequisite 
+## Prerequisite 
 Dragonlance Campaign, Fighter or Paladin class or Knight of Solamnia background
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Defensive Duelist
 
 
-## Prequisite 
+## Prerequisite 
 Dexterity 13 or higher
 
 ## Description

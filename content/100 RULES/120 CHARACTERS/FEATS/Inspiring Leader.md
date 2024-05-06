@@ -15,7 +15,7 @@ tags:
 # Inspiring Leader
 
 
-## Prequisite 
+## Prerequisite 
 Charisma 13 or higher
 
 ## Description

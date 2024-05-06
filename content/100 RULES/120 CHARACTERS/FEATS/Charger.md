@@ -15,7 +15,7 @@ tags:
 # Charger
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

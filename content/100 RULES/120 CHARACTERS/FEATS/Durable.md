@@ -15,7 +15,7 @@ tags:
 # Durable
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

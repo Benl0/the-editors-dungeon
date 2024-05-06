@@ -15,7 +15,7 @@ tags:
 # Polearm Master
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

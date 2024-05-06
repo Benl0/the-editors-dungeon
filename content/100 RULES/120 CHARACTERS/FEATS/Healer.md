@@ -15,7 +15,7 @@ tags:
 # Healer
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

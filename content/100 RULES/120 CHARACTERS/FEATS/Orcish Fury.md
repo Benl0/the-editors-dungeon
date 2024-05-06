@@ -15,7 +15,7 @@ tags:
 # Orcish Fury
 
 
-## Prequisite 
+## Prerequisite 
 Half-orc
 
 ## Description

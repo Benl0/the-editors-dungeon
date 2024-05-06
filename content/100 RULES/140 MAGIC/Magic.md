@@ -33,4 +33,4 @@ Magic is an integral part of many people and places. Use the links below to sear
 > 	- [Sorcerer](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Class/Sorcerer)
 > 	- [Warlock](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Class/Warlock)
 > 	- [Wizard](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Spells/Class/Wizard)
-> 
+

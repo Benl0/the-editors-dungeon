@@ -15,7 +15,7 @@ tags:
 # Guile of the Cloud Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Cloud Strike) feat
 
 ## Description

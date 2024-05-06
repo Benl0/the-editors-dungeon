@@ -15,7 +15,7 @@ tags:
 # Linguist
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

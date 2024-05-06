@@ -15,7 +15,7 @@ tags:
 # Fighting Initiate
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with a martial weapon
 
 ## Description

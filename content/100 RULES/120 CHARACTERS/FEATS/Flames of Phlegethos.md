@@ -15,7 +15,7 @@ tags:
 # Flames of Phlegethos
 
 
-## Prequisite 
+## Prerequisite 
 Tiefling
 
 ## Description

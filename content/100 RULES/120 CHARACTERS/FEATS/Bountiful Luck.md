@@ -15,7 +15,7 @@ tags:
 # Bountiful Luck
 
 
-## Prequisite 
+## Prerequisite 
 Halfling
 
 ## Description

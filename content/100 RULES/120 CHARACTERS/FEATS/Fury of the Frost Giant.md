@@ -15,7 +15,7 @@ tags:
 # Fury of the Frost Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Frost Strike) feat
 
 ## Description

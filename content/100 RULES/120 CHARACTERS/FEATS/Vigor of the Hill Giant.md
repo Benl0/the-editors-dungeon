@@ -15,7 +15,7 @@ tags:
 # Vigor of the Hill Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Hill Strike) feat
 
 ## Description

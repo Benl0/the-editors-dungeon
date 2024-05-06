@@ -15,7 +15,7 @@ tags:
 # Soul of the Storm Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Storm Strike) feat
 
 ## Description

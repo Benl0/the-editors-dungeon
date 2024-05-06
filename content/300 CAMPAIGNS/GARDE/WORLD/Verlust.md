@@ -1,14 +1,20 @@
 ---
 title: 
-publish: true
-cssclass: 
-date: 2024-03-18 12:13
-type: note
-book: 
-page: 
+aliases: 
+publish: false
+cssclasses: 
+date: 2024-03-26 08:26
+type: location
 tags:
-  - DnD
-  - TED/Garde/Countries
+  - Garde/Location/Verlust
+world: Garde
+campaign: Garde
+faction: 
+location: Verlust
+description: Country of Verlust
+race: 
+gender: 
+class:
 ---
 ##### Back: [[Garde World]]
 # Kingdom of Verlust
@@ -17,34 +23,10 @@ A rich and prosperous kingdom, Verlust has benefitted from hundreds of years of 
 > [!info]+ Map
 > ![[verlust.jpg]]
 
-# Haven
-One of the largest cities in all of Garde. Home to the royal family of Garde and many economical districts, fed by the dockyards.
+# Cities
+- [[Haven]]
 
-> [!info]- Map
-> ![[allas.png]]
 
-> [!example]- Districts
-> - ### East Way
-> 	- #### The Bowls
-> 		- Seedy underbelly of Haven
-> 		- Home to many taverns to drown your sorrows
-> - ### Two Chapels
-> 	- #### Castle
-> 		- Home to the royal family
-> 	- #### Milk Borough
-> 	- #### Archer Street
-> - ### Taylor’s Docks
-> 	- Docks for the textile workers of the area. 
-> 	- Their primary customers are the inventors, cooks and eccentrics of Black Lane.
-> - ### Black Lane
-> 	- Many inventors and tinkerers run down this street, on fire from another failed experiment. All the smoke leaves the area dark, gloomy and covered in black soot.
-> - ### Cat Crest
-> - ### Snow Docks
-> - ### Ash Valley
-> - ### Seven Hills
-> - ### Egg Grove
-
----
 
 > [!BUG]- GM's Corner
 > ```leaflet

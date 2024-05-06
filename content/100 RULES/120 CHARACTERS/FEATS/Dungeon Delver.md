@@ -15,7 +15,7 @@ tags:
 # Dungeon Delver
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

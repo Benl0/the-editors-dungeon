@@ -15,7 +15,7 @@ tags:
 # Keen Mind
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

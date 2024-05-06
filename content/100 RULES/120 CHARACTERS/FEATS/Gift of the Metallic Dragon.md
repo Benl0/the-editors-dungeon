@@ -15,7 +15,7 @@ tags:
 # Gift of the Metallic Dragon
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

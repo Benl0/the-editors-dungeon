@@ -15,7 +15,7 @@ tags:
 # Dual Wielder
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

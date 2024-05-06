@@ -15,7 +15,7 @@ tags:
 # Keenness of the Stone Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Stone Strike) feat
 
 ## Description

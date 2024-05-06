@@ -15,7 +15,7 @@ tags:
 # Moderately Armored
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with light armor
 
 ## Description

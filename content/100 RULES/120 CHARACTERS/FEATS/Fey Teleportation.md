@@ -15,7 +15,7 @@ tags:
 # Fey Teleportation
 
 
-## Prequisite 
+## Prerequisite 
 Elf (high)
 
 ## Description

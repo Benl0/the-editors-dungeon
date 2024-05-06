@@ -15,7 +15,7 @@ tags:
 # Great Weapon Master
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

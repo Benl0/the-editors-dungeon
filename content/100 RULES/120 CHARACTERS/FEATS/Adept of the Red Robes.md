@@ -15,7 +15,7 @@ tags:
 # Adept of the Red Robes
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Initiate of High Sorcery (Lunitari) feat
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Weapon Master
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

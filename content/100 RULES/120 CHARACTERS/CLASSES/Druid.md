@@ -51,7 +51,7 @@ tags:
 	- [[Abilities#Wisdom|Wisdom]]
 # Equipment
 - Either:
-	- a Wooden [[200 REFERENCE/250 ITEMS/251 ARMOUR/Shield|Shield]]
+	- a Wooden [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|Shield]]
 	- any [Simple Weapon](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Simple)
 - Either:
 	- a [[Scimitar]]

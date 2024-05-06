@@ -15,7 +15,7 @@ tags:
 # Ritual Caster
 
 
-## Prequisite 
+## Prerequisite 
 Intelligence or Wisdom 13 or higher
 
 ## Description

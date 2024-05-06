@@ -15,7 +15,7 @@ tags:
 # Initiate of High Sorcery
 
 
-## Prequisite 
+## Prerequisite 
 Dragonlance Campaign, Sorcerer or Wizard class or Mage of High Sorcery background
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Magic Initiate
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

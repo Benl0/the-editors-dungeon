@@ -15,7 +15,7 @@ tags:
 # Knight of the Crown
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Squire of Solamnia feat
 
 ## Description

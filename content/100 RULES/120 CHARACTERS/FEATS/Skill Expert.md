@@ -15,7 +15,7 @@ tags:
 # Skill Expert
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

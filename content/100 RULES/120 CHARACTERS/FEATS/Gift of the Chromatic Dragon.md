@@ -15,7 +15,7 @@ tags:
 # Gift of the Chromatic Dragon
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Squat Nimbleness
 
 
-## Prequisite 
+## Prerequisite 
 Dwarf or a Small race
 
 ## Description

@@ -16,7 +16,7 @@ tags:
 
 | Armour        | Cost (gp) | AC  | Strength | Stealth      | Weight (lb) |
 | ------------- | --------- | --- | -------- | ------------ | ----------- |
-| [[Ring mail]] | 30        | 14  | -        | Disadvantage | 40          |
+| [[Ring Mail]] | 30        | 14  | -        | Disadvantage | 40          |
 | Chain mail    | 75        | 16  | 13       | Disadvantage | 55          |
 | Splint        | 200       | 17  | 15       | Disadvantage | 60          |
 | Plate         | 1500      | 18  | 15       | Disadvantage | 65          |

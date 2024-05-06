@@ -15,7 +15,7 @@ tags:
 # Infernal Constitution
 
 
-## Prequisite 
+## Prerequisite 
 Tiefling
 
 ## Description

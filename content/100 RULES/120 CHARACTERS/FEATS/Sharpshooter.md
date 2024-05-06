@@ -15,7 +15,7 @@ tags:
 # Sharpshooter
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

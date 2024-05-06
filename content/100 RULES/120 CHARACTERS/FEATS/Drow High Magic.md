@@ -15,7 +15,7 @@ tags:
 # Drow High Magic
 
 
-## Prequisite 
+## Prerequisite 
 Elf (drow)
 
 ## Description

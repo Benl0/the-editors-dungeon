@@ -25,7 +25,7 @@ tags:
 		- [[Light Armour]]
 		- [[Medium Armour]]
 		- [[Heavy Armour]]
-		- [[200 REFERENCE/250 ITEMS/251 ARMOUR/Shield|All Shields]]
+		- [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|All Shields]]
 	- **Weapons:** 
 		- [[Simple Weapons]]
 		- [[Martial weapons]]
@@ -43,7 +43,7 @@ tags:
 	- [[Abilities#Charisma|Charisma]]
 # Equipment
 - Either:
-	- [Martial Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Martial) and [[200 REFERENCE/250 ITEMS/251 ARMOUR/Shield|Shield]] 
+	- [Martial Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Martial) and [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|Shield]] 
 		- 2 [Simple Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Simple):
 - Either:
 	- 5 [[Javelin]]

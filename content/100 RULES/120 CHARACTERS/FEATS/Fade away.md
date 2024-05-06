@@ -15,7 +15,7 @@ tags:
 # Fade away
 
 
-## Prequisite 
+## Prerequisite 
 Gnome
 
 ## Description

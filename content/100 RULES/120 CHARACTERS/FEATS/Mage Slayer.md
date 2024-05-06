@@ -15,7 +15,7 @@ tags:
 # Mage Slayer
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

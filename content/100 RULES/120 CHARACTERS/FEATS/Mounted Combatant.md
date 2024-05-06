@@ -15,7 +15,7 @@ tags:
 # Mounted Combatant
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

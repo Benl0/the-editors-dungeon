@@ -15,7 +15,7 @@ tags:
 # Observant
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

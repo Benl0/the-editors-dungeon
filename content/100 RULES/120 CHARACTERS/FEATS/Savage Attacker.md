@@ -15,7 +15,7 @@ tags:
 # Savage Attacker
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

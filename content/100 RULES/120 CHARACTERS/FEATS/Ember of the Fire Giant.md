@@ -15,7 +15,7 @@ tags:
 # Ember of the Fire Giant
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Strike of the Giants (Fire Strike) feat
 
 ## Description

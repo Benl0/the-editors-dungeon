@@ -42,7 +42,7 @@ Weapons with properties have additional effects or benefits, often on top of the
 - You can use the same modifier you would use for a melee attack.
 ## Two-Handed
 - You must wield this weapon with two hands.
-	- i.e. you can't equip a [[200 REFERENCE/250 ITEMS/251 ARMOUR/Shield|Shield]] at the same time.
+	- i.e. you can't equip a [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|Shield]] at the same time.
 ## Versatile
 - You can wield this with one or two hands.
 - In parentheses you will see the damage when used with two hands.

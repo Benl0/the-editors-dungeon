@@ -15,7 +15,7 @@ tags:
 # Dragon Hide
 
 
-## Prequisite 
+## Prerequisite 
 Dragonborn
 
 ## Description

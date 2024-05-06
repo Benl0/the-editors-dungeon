@@ -15,7 +15,7 @@ tags:
 # Tough
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

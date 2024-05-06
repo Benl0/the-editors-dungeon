@@ -49,7 +49,7 @@ tags:
 - Either:
 	1. [[Packs#Priest's Pack|Priest's Pack]]
 	2. [[Packs#Explorer's Pack|Explorer's Pack]]
-- A [[200 REFERENCE/250 ITEMS/251 ARMOUR/Shield|Shield]]
+- A [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|Shield]]
 - A [[Holy Symbol]]
 
 # Class Features

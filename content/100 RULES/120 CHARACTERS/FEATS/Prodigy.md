@@ -15,7 +15,7 @@ tags:
 # Prodigy
 
 
-## Prequisite 
+## Prerequisite 
 Half-elf, half-orc, or human
 
 ## Description

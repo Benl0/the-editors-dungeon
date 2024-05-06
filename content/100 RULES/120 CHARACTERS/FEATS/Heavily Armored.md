@@ -15,7 +15,7 @@ tags:
 # Heavily Armored
 
 
-## Prequisite 
+## Prerequisite 
 Proficiency with medium armor
 
 ## Description

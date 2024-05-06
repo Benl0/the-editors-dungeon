@@ -15,7 +15,7 @@ tags:
 # Eldritch Adept
 
 
-## Prequisite 
+## Prerequisite 
 Spellcasting or Pact Magic feature
 
 ## Description

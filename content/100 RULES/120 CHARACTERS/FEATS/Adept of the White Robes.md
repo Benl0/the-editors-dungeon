@@ -15,7 +15,7 @@ tags:
 # Adept of the White Robes
 
 
-## Prequisite 
+## Prerequisite 
 4th Level, Initiate of High Sorcery (Solinari) feat
 
 ## Description

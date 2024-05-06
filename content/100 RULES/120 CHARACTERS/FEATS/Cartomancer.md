@@ -15,7 +15,7 @@ tags:
 # Cartomancer
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

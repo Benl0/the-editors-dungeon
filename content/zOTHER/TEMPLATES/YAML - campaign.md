@@ -1,14 +1,19 @@
 ---
 title: 
+alias: 
 publish: false
 cssclasses: 
 date: <%tp.file.creation_date()%>
-type: <%tp.system.suggester(["Note","MOC","Race","Class","Item","Weapon","Magic","PC","NPC","Monster"],["note","moc","race","class","item","weapon","magic","pc","npc","monster"])%>
-book: 
-page: 
+type: 
 tags: 
-world: 
-system:
+world: <%tp.file.folder()%>
+campaign: <%tp.file.folder()%>
+faction: 
+location: 
+description: 
+race: 
+gender: 
+class:
 ---
-##### Back: [[index|Home]] || Book:  || Page: 
+##### Back: 
 # Heading

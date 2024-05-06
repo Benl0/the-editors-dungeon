@@ -15,7 +15,7 @@ tags:
 # Tavern Brawler
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

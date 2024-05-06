@@ -15,7 +15,7 @@ tags:
 # Athlete
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

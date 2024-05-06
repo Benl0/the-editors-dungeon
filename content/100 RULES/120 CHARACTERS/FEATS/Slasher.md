@@ -15,7 +15,7 @@ tags:
 # Slasher
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

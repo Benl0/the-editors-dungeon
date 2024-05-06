@@ -15,7 +15,7 @@ tags:
 # Resilient
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

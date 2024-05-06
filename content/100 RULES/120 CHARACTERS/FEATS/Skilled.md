@@ -15,7 +15,7 @@ tags:
 # Skilled
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

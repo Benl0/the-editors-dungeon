@@ -15,7 +15,7 @@ tags:
 # Lucky
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

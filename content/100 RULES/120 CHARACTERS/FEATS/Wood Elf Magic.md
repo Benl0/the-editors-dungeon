@@ -15,7 +15,7 @@ tags:
 # Wood Elf Magic
 
 
-## Prequisite 
+## Prerequisite 
 Elf (wood)
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Chef
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

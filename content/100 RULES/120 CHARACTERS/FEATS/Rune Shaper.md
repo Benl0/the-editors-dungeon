@@ -15,7 +15,7 @@ tags:
 # Rune Shaper
 
 
-## Prequisite 
+## Prerequisite 
 Spellcasting feature or Rune Carver background
 
 ## Description

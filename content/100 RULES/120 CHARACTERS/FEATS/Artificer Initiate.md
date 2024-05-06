@@ -15,7 +15,7 @@ tags:
 # Artificer Initiate
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

@@ -1,16 +1,22 @@
 ---
-date: 2024-02-15 20:57
-publish: true
-type:
-  - note
-book: 
-page: 
+title: 
+aliases: 
+publish: false
+cssclasses: 
+date: 2024-03-26 08:26
+type: location
 tags:
-  - DnD
-  - TED/Garde/Countries
-back: "[[Garde World]]"
+  - Garde/Location/Liebe
+world: Garde
+campaign: Garde
+faction: 
+location: Liebe
+description: Country of Liebe
+race: 
+gender: 
+class:
 ---
-Back: [[Garde World]]
+##### Back: [[Garde World]]
 # The Liebe Empyrium
 A reluctant ally of [[Verlust]], but only out of necessity for the economic trade.
 > [!info]+ Map

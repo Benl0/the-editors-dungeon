@@ -15,7 +15,7 @@ tags:
 # Lightly Armored
 
 
-## Prequisite 
+## Prerequisite 
 None
 
 ## Description

@@ -15,7 +15,7 @@ tags:
 # Elven Accuracy
 
 
-## Prequisite 
+## Prerequisite 
 Elf or half-elf
 
 ## Description

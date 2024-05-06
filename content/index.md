@@ -11,7 +11,7 @@ tags:
   - Home
 ---
 # The Editor's Dungeon
-- ## [[Garde MOC|Garde]]
+- ## [[Garde|Garde]]
 
 # Rules
 - [[5E Rules|D&D 5th Edition]]

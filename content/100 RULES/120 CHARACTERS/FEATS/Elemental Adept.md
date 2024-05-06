@@ -15,7 +15,7 @@ tags:
 # Elemental Adept
 
 
-## Prequisite 
+## Prerequisite 
 The ability to cast at least one spell
 
 ## Description
