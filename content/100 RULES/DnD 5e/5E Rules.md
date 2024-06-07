@@ -63,12 +63,7 @@ tags:
 - [[Magic]]
 - [[Weapons]]
 - [[Armour]]
-- [[Tools]]
-- [[Wondrous Items]]
-- [[Potions Oils]]
-- [[Poisons]]
-- [[Adventuring Gear]]
-- [[Other Items]]
+- [[Items]]
 ## Cheat Sheets
 - [[Character Creation]]
 - [[Determining Ability Scores]]

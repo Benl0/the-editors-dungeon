@@ -25,7 +25,7 @@ tags:
 ## Abilities
 | Type                                                         | Effect / Description                                                              |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | See 60ft in dim light, but only in black and white                                |
+| [[100 RULES/DnD 5e/120 CHARACTERS/FEATURES/Darkvision|Darkvision]] | See 60ft in dim light, but only in black and white                                |
 | Fey Ancestry                                                 | Advantage on saving throws against being charmed.<br>Magic can't put you to sleep |
 
 ## Proficiencies

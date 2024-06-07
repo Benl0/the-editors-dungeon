@@ -26,7 +26,7 @@ tags:
 | Type                                                         | Effect / Description                                                                    |
 | ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
 | [[Abilities#Intelligence\|Intelligence]]                     | +2 to your Intelligence score                                                           |
-| [[100 RULES/120 CHARACTERS/FEATURES/Darkvision\|Darkvision]] | See 60ft in dim light, but only in black and white                                      |
+| [[100 RULES/DnD 5e/120 CHARACTERS/FEATURES/Darkvision|Darkvision]] | See 60ft in dim light, but only in black and white                                      |
 | Gnome Cunning                                                | You have advantage on all Intelligence, Wisdom and Charisma saving throws against magic |
 
 # Sub-races
