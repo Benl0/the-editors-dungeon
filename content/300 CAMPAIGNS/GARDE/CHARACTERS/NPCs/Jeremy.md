@@ -16,10 +16,13 @@ description: Paladin and Royal knight
 ##### Back:  [[Garde|Garde]]
 # The Mysterious Man
 
-*A strange man but cheery chap. Definitely an important and rich figure but there is still much mystery.*
+*A strange man but cheery chap. Definitely an important and powerful figure but he won't spill any beans until several flagons deep*
 
 ## General info
 - From [[Haven]]
 - Met in [[The Spear Inn]] after stopping the bar fight.
 - Posted the job advert to rescue [[Eliza]]
 
+---
+> [!BUG]- GM Corner
+> [[Jeremy Notes]]

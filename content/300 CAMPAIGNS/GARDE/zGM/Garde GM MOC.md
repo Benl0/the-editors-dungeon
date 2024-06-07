@@ -15,7 +15,12 @@ campaign: Garde
 # General
 - ## Planning
 	- [[Campaign Ideas]]
-	- [[Story Beats]]
+	- [[Story Plan v1]]
+	- [[Story plan v2]]
+	- [[To Research]]
+	- [[Compelling Villains]]
+- ## Inspiration
+	- [[Monster ideas]]
 - ## Reference
 	- [[Plugins]]
 
@@ -35,7 +40,7 @@ SORT faction
 TABLE WITHOUT ID
 file.link AS "Faction", location AS "Location"
 FROM "300 CAMPAIGNS/Garde"
-WHERE type = "faction"
+WHERE contains(type,"faction")
 ```
 
 ---

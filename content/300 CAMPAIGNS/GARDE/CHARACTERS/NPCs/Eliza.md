@@ -22,3 +22,8 @@ class: Sorcerer
 *A human woman of some significance, at least to [[Jeremy]]. She has gone missing after sneaking out of the city*
 
 
+---
+
+> [!BUG]- GM's Corner
+> [[Eliza notes]]
+

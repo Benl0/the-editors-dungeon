@@ -17,6 +17,12 @@ Back: [[index|Home]]
 	- Eventually she falls ill, is badly hurt in a battle or must return home to care for the kingdom 
 	- Evil royal assistant takes over and runs the kingdom into ruin? 
 - THEME PARK IN GOB LAND
+	- *GOB* is Lob's Dad's initials. A Lapine who went out on an adventure and found themselves making the Theme Park GOB with a bunch of Kobolds
+- [[Eliza]] is looking for a spell powerful enough to escape the plane.
+
+## Gameplay
+- Chess puzzles
+	- Players are polymorphed and placed on a chess board. They have to figure out the solution to the puzzle using standard chess rules
 
 # Story
 - 2 gods at war

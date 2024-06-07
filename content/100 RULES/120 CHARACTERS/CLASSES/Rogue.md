@@ -1,7 +1,8 @@
 ---
 title: 
 publish: true
-cssclasses: 
+cssclasses:
+  - dashboard
 date: 2024-04-27 13:11
 type: class
 book: "[[Players Handbook.pdf]]"

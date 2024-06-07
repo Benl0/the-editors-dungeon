@@ -7,7 +7,7 @@ book:
 tags: 
 back:
 ---
-Back: 
+Back: [[Garde GM MOC]]
 # Three Pillars by Connie Chang
 ## 1. [Tangible Goals]([https://vm.tiktok.com/ZGeyc9Mx3/](https://vm.tiktok.com/ZGeyc9Mx3/))
 - Strong verb with a greater context

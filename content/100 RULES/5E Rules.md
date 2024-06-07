@@ -33,12 +33,18 @@ tags:
 	- [[Alignment]]
 	- [[Languages]]
 - ## Gameplay
-	- [[Inspiration]]
-	- [[Ability Checks]]
-	- [[Saving Throw]]
 	- [[Combat]]
+	- [[Ability Checks]]
+	- [[Actions]]
+	- [[Stealth]]
+	- [[Saving Throw]]
 	- [[Initiative]]
-	- [[Action]]
+- ## Gameplay cont.
+	- [[Conditions]]
+	- [[Exhaustion]]
+	- [[Inspiration]]
+	- [[Attack of Opportunity]]
+	- [[Cover]]
 - ## Magic
 	- [[Spell Level]]
 	- [[Prepared Spells]]

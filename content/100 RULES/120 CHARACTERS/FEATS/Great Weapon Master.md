@@ -1,22 +1,23 @@
 ---
-title:
+title: 
 publish: true
-cssclass:
+cssclasses: 
 date: 2024-04-12
 type: note
 book: "[[Players Handbook.pdf]]"
-page: 
+page: 167
 tags:
-    - DnD/Rules/Feats
+  - DnD/Rules/Feats
 ---
 
-##### Back: [[Feats]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing)
+##### Back: [[Feats]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 167
 
 # Great Weapon Master
-
 
 ## Prerequisite 
 None
 
 ## Description
-Extra attack after a melee critical hit and you can choose to take -5 to attack roll to add +10 to damage with an heavy weapon.
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.

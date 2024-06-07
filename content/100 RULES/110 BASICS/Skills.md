@@ -56,6 +56,13 @@ Skills are subclasses of the main 6 [[Abilities]] and go into more specificity. 
 ## Insight
 ## Medicine
 ## Perception
+
+### Passive Perception
+- A creature's default state of awareness. A high value means it will be hard to hide things from you.
+- To calculate $\text{10 + Wisdom mod. + Proficiency}$ 
+
+> [!attention] Add proficiency only if applicable
+
 ## Survival
 # Charisma
 ## Deception

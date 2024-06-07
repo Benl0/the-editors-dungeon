@@ -1,22 +1,21 @@
 ---
-title: Thunderou's Smite
+title: Thunderous Smite
 publish: true
-cssclass:
+cssclasses:
   - dashboard
 date: 2024-04-20 18:30
 type: magic
-book: "Players Handbook.pdf"
+book: Players Handbook.pdf
 page: 282
 tags:
   - DnD/Spells/Evocation
   - DnD/Spells/Lv1
   - DnD/Spells/Class/Paladin
-
 ---
 
 ##### Back: [[Magic]] || Book: [Players Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 282
 
-# Thunderou's Smite
+# Thunderous Smite
 - ![[thunderous-smite.png]]
 - **Casting:**
     - **Casting Time:** 1 bonus action
@@ -46,7 +45,7 @@ The first time you hit with a melee weapon attack during this spell's duration, 
 > ```statblock
 > layout: Spells
 > source: "Players Handbook"
-> name: "Thunderou's Smite"
+> name: "Thunderous Smite"
 > image: [[thunderous-smite.png]]
 > level: "1st"
 > school: "Evocation"

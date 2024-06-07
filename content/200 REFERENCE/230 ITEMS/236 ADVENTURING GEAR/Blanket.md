@@ -1,0 +1,23 @@
+---
+title: Blanket
+publish: true
+cssclass:
+  - dashboard
+date: 2024-06-07 12:00
+type: item
+tags:
+  - DnD/Items/adventuring-gear
+---
+
+##### Back: [[Items]]
+
+- # Blanket
+
+    - **Type:** Adventuring Gear
+    - **Rarity:** common
+    - **Cost:** 1 ep
+- **Property:** 
+
+
+
+
