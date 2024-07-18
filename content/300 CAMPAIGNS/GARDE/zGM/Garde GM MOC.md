@@ -22,18 +22,17 @@ campaign: Garde
 - ## Inspiration
 	- [[Monster ideas]]
 - ## Reference
+	- [[Garde Calendar]]
 	- [[Plugins]]
+- ## Lore
+	- [[Garde History]]
+	- [[The Three Moons]]
+	- 
 
 # Characters
 `button-cha-npc`
 
-```dataview
-TABLE WITHOUT ID
-file.link AS "Character", race AS "Race", class AS "Class", faction AS "Faction", location AS "Home"
-FROM "300 CAMPAIGNS/Garde"
-WHERE contains(type,"npc")
-SORT faction
-```
+
 
 ## Factions
 ```dataview
@@ -42,6 +41,7 @@ file.link AS "Faction", location AS "Location"
 FROM "300 CAMPAIGNS/Garde"
 WHERE contains(type,"faction")
 ```
+
 
 ---
 
@@ -75,4 +75,5 @@ SORT sessionNum
     - File Count: `$=dv.pages().length`
     - Rules: `$=dv.pages('"100 RULES"').length`
     - Reference: `$=dv.pages('"200 REFERENCE"').length`
-    - Campaigns: `$=dv.pages('"300 CAMPAIGNS"').length`
+    - Garde: `$=dv.pages('"300 CAMPAIGNS/Garde"').length`
+

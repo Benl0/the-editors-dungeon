@@ -1,25 +1,12 @@
 ---
-title: Scale mail
-publish: true
-cssclass:
-  - dashboard
-date: 2024-06-07 12:00
-type: item
-tags:
-  - DnD/Items/armour
+title: 
+publish: false
+cssclass: 
+date: 2024-06-07 16:54
+type: null
+book: "[[null]]"
+page: 
+tags: 
 ---
-
-##### Back: [[Items]]
-
-- # Scale mail
-
-    - **Type:** Armour
-    - **Rarity:** common
-    - **Cost:** 50 gp
-- **Property:** 
-- **Armour type:** Medium Armour
-    - **AC:** 14 + Dex
-
-## Description 
-
-This armour consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets. 
+##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+# Heading

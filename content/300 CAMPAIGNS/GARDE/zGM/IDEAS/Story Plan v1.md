@@ -1,12 +1,12 @@
 ---
-cssclass: 
+cssclasses: 
 date: 2024-03-10 11:01
 publish: false
 type: note
 book: 
 tags:
   - Garde/GM/Plan
-back: "[[index]]"
+back:
 ---
 Back: [[Garde GM MOC]]
 # Campaign 1 Story Beats

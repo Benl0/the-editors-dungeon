@@ -29,6 +29,13 @@ tags:
 | [[Half-Orc]]   |                                         | [[Players Handbook.pdf\|Player's Handbook]] Pg. 40 |
 | [[Tiefling]]   |                                         | [[Players Handbook.pdf\|Player's Handbook]] Pg. 42 |
 
+# Monsters of the Multiverse
+
+| Race        | Sub-Races | Source                            |
+| ----------- | --------- | --------------------------------- |
+| [[Firbolg]] |           | Monsters of the Multiverse Pg. 15 |
+
+
 # Homebrew
 | Race       | Sub-Races | Source                                                     |
 | ---------- | --------- | ---------------------------------------------------------- |

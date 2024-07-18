@@ -29,14 +29,15 @@ system: 5e
 	- [[Sylvaris Nightwhisper]]
 	- [[Winslow]]
 - ## NPCs
-	- [[Jeremy]]
-	- [[Eliza]]
+	- [[Jeremy Hartfall]]
+	- [[Eliza Trotz|Eliza]]
 - ## Other
 	- [[Bandit Jeremy]]
 	- [[Torz]]
 # Sessions
 - ### Small Beginnings
-	- [[1.0 Just Another Job|Just Another Job]]
+	1. [[1.0 Just Another Job|Just Another Job]]
+	2. [[1.1 A Valiant Rescue|A Valiant Rescue]]
 
 
 ---

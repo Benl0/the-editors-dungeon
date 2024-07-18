@@ -1,25 +1,12 @@
 ---
-title: Disk of Balance
-publish: true
-cssclass:
-  - dashboard
-date: 2024-06-07 12:00
-type: item
-tags:
-  - DnD/Items/other
+title: 
+publish: false
+cssclass: 
+date: 2024-06-07 16:54
+type: null
+book: "[[null]]"
+page: 
+tags: 
 ---
-
-##### Back: [[Items]]
-
-- # Disk of Balance
-
-    - **Type:** Other
-    - **Rarity:** mundane
-    - **Cost:** 4 gp
-- **Property:** 
-
-
-
-## Description 
-
-A disk of finely polished stone. On one side, the Elvish rune for death is inscribed in blackest obsidian. Upon the other, the Dwarven rune for life is inscribed in the palest ivory.
+##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+# Heading

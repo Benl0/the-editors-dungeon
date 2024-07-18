@@ -1,7 +1,7 @@
 ---
-title: 
+title: Tiefling Wizard
 aliases: 
-publish: false
+publish: true
 cssclasses: 
 date: 2024-05-28 13:39
 type: npc
@@ -17,7 +17,10 @@ gender: Woman
 class: Wizard
 ---
 ##### Back: [[Garde]]
-# Pillars
-1. Kidnap sorcerers. Petrify them into anchors
-2. Strength in numbers. The crumbling moon will keep Garde safe
-3. 
+
+A strange Tiefling woman, quite devilish in appearance, even more than normal for [[Tiefling|tieflings]]. She appear to be a member of [[The Crumbling Moon]] and took part in the ritual with [[Eliza Trotz|Eliza]]. However, she teleported away just before the fight.
+
+---
+
+> [!BUG]- GM's Corner
+> [[Myla Damakos Notes|Notes]]

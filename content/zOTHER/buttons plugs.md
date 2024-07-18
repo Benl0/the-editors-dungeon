@@ -20,7 +20,7 @@ color red
 ---
 
 ```button
-name New Character
+name New Note
 type command
 action QuickAdd: Template - Character NPC
 templater true

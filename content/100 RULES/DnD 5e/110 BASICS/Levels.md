@@ -1,11 +1,19 @@
 ---
-date: 2022-11-05 20:11
+title: 
 publish: true
-type: [note]
-author: [Ben Mongardini]
+cssclasses: 
+date: 2024-06-21
+type: note
+book: "[[Players Handbook.pdf]]"
+page: 
+tags:
+  - DnD/Rules
 ---
-Tags:: #DnD/Rules | Back:: [[5E Rules]] | Back: 
+##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
 
-*New characters start at Level 1 at 0 experience*
+> [!BUG] This page is incomplete
 
-# Experience
+# Built Different
+
+Levels is the base stat that determines a character's strength. From 1 to 20, the higher the level, the stronger and more skilled the person.
+You can level up by either gain Experience Points or by 

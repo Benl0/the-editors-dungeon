@@ -1,25 +1,12 @@
 ---
-title: Wolf Pelt
-publish: true
-cssclass:
-  - dashboard
-date: 2024-06-07 12:00
-type: item
-tags:
-  - DnD/Items/other
+title: 
+publish: false
+cssclass: 
+date: 2024-06-07 16:54
+type: null
+book: "[[null]]"
+page: 
+tags: 
 ---
-
-##### Back: [[Items]]
-
-- # Wolf Pelt
-- ![[pelt.png]]
-    - **Type:** Other
-    - **Rarity:** mundane
-    - **Cost:** 1 ep
-- **Property:** 
-
-
-
-## Description 
-
-A grey and white wolf pelt.
+##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+# Heading

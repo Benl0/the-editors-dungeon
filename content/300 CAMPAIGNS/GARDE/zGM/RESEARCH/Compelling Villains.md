@@ -9,7 +9,7 @@ back:
 ---
 Back: [[Garde GM MOC]]
 # Three Pillars by Connie Chang
-## 1. [Tangible Goals]([https://vm.tiktok.com/ZGeyc9Mx3/](https://vm.tiktok.com/ZGeyc9Mx3/))
+## 1. [Tangible Goals](https://vm.tiktok.com/ZGeyc9Mx3/)
 - Strong verb with a greater context
 	- **Kill** the prince
 	- **Steal** the gem
@@ -22,7 +22,7 @@ Back: [[Garde GM MOC]]
 - Doesn't have to be nefarious 
 - The eggs aren't in one basket. The party can and should thwart one or more plans
 	- The plan can and should change. Nothing ever goes to plan
-## 2. [Dangerous Methods]([https://vm.tiktok.com/ZGeyc2rKs/](https://vm.tiktok.com/ZGeyc2rKs/))
+## 2. [Dangerous Methods](https://vm.tiktok.com/ZGeyc2rKs/)
 - How the villain achieves their goals
 - **Strength**
 	- Resources
@@ -43,7 +43,8 @@ Back: [[Garde GM MOC]]
 		- A subtle villain may initiate a vote of no confidence to take control of the senate (Palpatine)
 	- There will be multiple ways to achieve their goals
 	- Here is where the villain leverages their strengths to either get the job done themselves, or pay/trick others into doing it for them
-## 3. [Ironclad Reasons]([https://vm.tiktok.com/ZGeycSSbh/](https://vm.tiktok.com/ZGeycSSbh/))
+
+## 3. [Ironclad Reasons](https://vm.tiktok.com/ZGeycSSbh/)
 - What drives the villain's quest? Why do they do what they do? What to they desire?
 - Good motivation is: "Clear, specific, flexible and generative"
 - **Clarity**

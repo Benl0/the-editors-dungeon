@@ -11,7 +11,7 @@ tags:
 
 ##### Back: [[Items]]
 
-- # Potion of Healing
+# Potion of Healing
 - ![[health-potion.png]]
     - **Type:** Potions Oils
     - **Rarity:** common

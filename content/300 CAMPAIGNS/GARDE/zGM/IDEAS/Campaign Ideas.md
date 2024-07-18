@@ -2,8 +2,6 @@
 date: 2023-01-26 13:27
 publish: false
 type: note
-author:
-  - Ben Mongardini
 tags:
 ---
 Back: [[index|Home]]
@@ -18,7 +16,12 @@ Back: [[index|Home]]
 	- Evil royal assistant takes over and runs the kingdom into ruin? 
 - THEME PARK IN GOB LAND
 	- *GOB* is Lob's Dad's initials. A Lapine who went out on an adventure and found themselves making the Theme Park GOB with a bunch of Kobolds
-- [[Eliza]] is looking for a spell powerful enough to escape the plane.
+- [[Eliza Trotz]] is looking for a spell powerful enough to escape the plane.
+- Eliza has the vast majority of Haven's political sphere under her control.
+	- She casts [[Feeblemind]]
+	- [[Polymorph]]s into a [Kalaraq Quori](https://eberron.fandom.com/wiki/Kalaraq_quori) to use the Mind Seed ability
+	- After a week, [[Greater Restoration]] to heal the politician back to full intelligence
+	- The politician is under full control of Eliza
 
 ## Gameplay
 - Chess puzzles

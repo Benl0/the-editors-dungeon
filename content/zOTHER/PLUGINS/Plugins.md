@@ -7,7 +7,7 @@ type: note
 tags:
   - DnD/Plugins
 ---
-back: [[index|Home]]
+back: [[GM]]
 
 ---
 *A non exhaustive list of the plugins being used*
@@ -18,6 +18,7 @@ back: [[index|Home]]
 - Fantansy Calendar
 - [[Fantasy Statblocks]]
 # General Purpose
+- [[Leaflet]]
 - Dataview
 - Advanced Tables
 - Excalidraw

@@ -1,25 +1,12 @@
 ---
-title: Hide
-publish: true
-cssclass:
-  - dashboard
-date: 2024-06-07 12:00
-type: item
-tags:
-  - DnD/Items/armour
+title: 
+publish: false
+cssclass: 
+date: 2024-06-07 16:54
+type: null
+book: "[[null]]"
+page: 
+tags: 
 ---
-
-##### Back: [[Items]]
-
-- # Hide
-
-    - **Type:** Armour
-    - **Rarity:** common
-    - **Cost:** 10 gp
-- **Property:** 
-- **Armour type:** Medium Armour
-    - **AC:** 12 + Dex
-
-## Description 
-
-This crude armour consists of thick furs and pelts. It is commonly worn by barbarian tribes, evil humanoids, and other folk who lack access to the tools and materials needed to create better armour. 
+##### Back:  || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 
+# Heading

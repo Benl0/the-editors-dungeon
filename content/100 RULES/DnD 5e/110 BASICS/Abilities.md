@@ -16,6 +16,7 @@ They are [[Determining Ability Scores|determined]] during character creation and
 > [!TIP] See also
 > - [[Skills]]
 > - [[Determining Ability Scores]]
+> - [[Ability Modifiers]]
 
 
 ![[Ability Scores.excalidraw.png|800]]
@@ -44,3 +45,4 @@ They are [[Determining Ability Scores|determined]] during character creation and
 - Confidence
 - Eloquence
 - Leadership
+

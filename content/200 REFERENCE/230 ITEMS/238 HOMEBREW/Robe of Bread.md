@@ -1,6 +1,6 @@
 ---
 title: 
-publish: false
+publish: true
 cssclasses: 
 date: 2024-05-20 18:49
 type: item
@@ -12,6 +12,7 @@ tags:
 ---
 ##### Back: [[Items]] 
 
+---
 A warm, toasty robe. Once per hour, you can reach into the sleeve of this robe a pull out a fresh roll of bread. Roll a d100 to determine what type of bread.
 The bread produced by this robe is perfectly normal bread and can be eaten for sustenance. Throwing the bread doesn't hurt, it is annoying though.
 
@@ -101,7 +102,7 @@ The bread produced by this robe is perfectly normal bread and can be eaten for s
 | 82    | Markook             | Very thin Arabic flatbread.                                                                                      |
 | 83    | Pane Carasau        | Traditional Sardinian flatbread.                                                                                 |
 | 84    | Pola                | Armenian festive bread.                                                                                          |
-| 85    | Pita                | Middle Eastern flatbread with a pocket.                                                                          |
+| 85    | Sanctified wafers   | Small discs of blessed bread.                                                                                    |
 | 86    | Reisbrød            | Norwegian rice bread.                                                                                            |
 | 87    | Rewena Bread        | Traditional Maori potato bread.                                                                                  |
 | 88    | Roggenbrot          | German rye bread.                                                                                                |

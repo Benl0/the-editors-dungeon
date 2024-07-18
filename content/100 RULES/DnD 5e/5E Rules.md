@@ -14,9 +14,10 @@ tags:
 # Dungeons & Dragons 5th Edition
 - ## Basics
 	- [[Dice]]
-	- [[Proficiency Bonus]]
 	- [[Abilities]]
 	- [[Skills]]
+	- [[Proficiency Bonus]]
+	- [[Ability Modifiers]]
 	- [[Levels]]
 	- [[Experience Points]]
 - ## Health
@@ -33,22 +34,22 @@ tags:
 	- [[Alignment]]
 	- [[Languages]]
 - ## Gameplay
-	- [[Combat]]
-	- [[Ability Checks]]
 	- [[Actions]]
-	- [[Stealth]]
+	- [[Ability Checks]]
 	- [[Saving Throw]]
-	- [[Initiative]]
-- ## Gameplay cont.
 	- [[Conditions]]
 	- [[Exhaustion]]
 	- [[Inspiration]]
-	- [[Attack of Opportunity]]
+- ## Combat
+	- [[Combat Order]]
+	- [[Initiative]]
+	- [[Stealth]]
 	- [[Cover]]
+	- [[Attack of Opportunity]]
 - ## Magic
 	- [[Spell Level]]
 	- [[Prepared Spells]]
-	- [[Spell casting]]
+	- [[Spellcasting]]
 - ## Weapons
 	- [[Weapon Properties]]
 	- [[Damage Type]]

@@ -17,7 +17,7 @@ This is where you character's [[Abilities]] and [[Skills]] are used. Where the h
 
 An Ability Check can happen at any point using the most relevant Ability or Skill. Ultimately, that decision is up to the GM's discretion. 
 Common situations for an Ability Check include:
-- Performing an action, both in and out of [[Combat]]
+- Performing an action, both in and out of [[Combat Order]]
 - Resisting an attack
 - Charming the waiter for free drinks
 - Stealing drinks under the waiter's nose

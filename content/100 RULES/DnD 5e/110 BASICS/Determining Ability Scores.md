@@ -11,8 +11,6 @@ tags:
 ---
 ##### Back: [[5E Rules]] || Book: [Player's Handbook](https://drive.google.com/drive/folders/1O5bhpYizcIT5xxAoLOuzCRht_PVS7VSG?usp=sharing) || Page: 13
 
-> [!missing] This page is incomplete
-
 # A Numbers Game
 [[Abilities#Abilities|Ability scores]] are the big windows on the left hand side of your character sheet. These are:
 - Strength
@@ -63,6 +61,7 @@ $$
 \frac{x-10}{2}=y
 $$
 
+
 | **Score** | Modifier | **Score** | Modifier |
 | ----- | -------- | ----- | -------- |
 | **1**     | -5       | **16-17** | +3       |
@@ -73,3 +72,5 @@ $$
 | **10-11** | +0       | **26-27** | +8       |
 | **12-13** | +1       | **28-29** | +9       |
 | **14-15** | +2       | **30**    | +10      |
+
+
