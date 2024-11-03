@@ -18,12 +18,13 @@ class:
 ---
 ##### Back: [[Verlust]]
 
-> [!ERROR] This page is incomplete
-
-*The capital and the largest cities in all of Garde. Home to the royal family of Garde and many economical districts, fed by the dockyards.*
+*The capital and the largest cities in all of Garde. Home to the Trotz royal family of Garde and many economical districts, fed by the dockyards.*
 
 # Places of Note
 - [[The Spear Inn]]
+
+> [!info]- Map
+>![[Verlust - Haven.jpg]]
 
 > [!example]- Districts
 > - ### East Way

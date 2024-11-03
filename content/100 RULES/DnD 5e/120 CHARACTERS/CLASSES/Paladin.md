@@ -11,9 +11,7 @@ tags:
   - DnD/Classes/Paladin
   - DnD/Rules
 ---
-##### Back:  || Book: [[Players Handbook.pdf|Players Handbook]] || Page: 82
-
-> [!missing] This page is incomplete
+##### Back: [[Classes]] || Book: [[Players Handbook.pdf|Players Handbook]] || Page: 82
 
 # Stats:
 - ### Hit Points
@@ -25,10 +23,10 @@ tags:
 		- [[Light Armour]]
 		- [[Medium Armour]]
 		- [[Heavy Armour]]
-		- [[200 REFERENCE/230 ITEMS/251 ARMOUR/Shield|All Shields]]
+		- [[Armour#Shields|Shields]]
 	- **Weapons:** 
-		- [[Simple Weapons]]
-		- [[Martial weapons]]
+		- [Simple Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Simple)
+		- [Martial Weapons](https://benl0.github.io/The-Editors-Dungeon/tags/DnD/Weapons/Martial)
 	- **Tools:** 
 		- None
 - ### [[Skills]] (choose 2):
@@ -53,6 +51,10 @@ tags:
 	- [[Packs#Explorer's Pack|Explorer's Pack]]
 - [[Chain Mail]]
 - [[Holy Symbol]]
+
+# Spellcasting
+- Prepared spells:
+	- $Cha. mod + (Level\div2)$
 
 # Level Features
 

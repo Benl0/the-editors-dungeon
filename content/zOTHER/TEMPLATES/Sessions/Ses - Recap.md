@@ -16,6 +16,7 @@ description:
 summary:
 ---
 ##### Back:  || Session: 
+##### Previous:  || Next: 
 
 > [!quote] *Session quote*
 

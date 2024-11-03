@@ -19,13 +19,23 @@ class:
 ##### Back: [[Garde World]]
 # The Liebe Empyrium
 A reluctant ally of [[Verlust]], but only out of necessity for the economic trade.
-> [!info]+ Map
-> ![[liebe.jpg]]
 
 
-# Bram
+# Settlements
+## Bram
+- Capital of Liebe
+
+## Kalt
+
+## Foss
+
+## Dorf
+- Village that [[Alaric]] defended
+- On the very border between Liebe and [[Uld]]
 
 
+
+---
 
 > [!BUG]- GM's Corner
 > ```leaflet

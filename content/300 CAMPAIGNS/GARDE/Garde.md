@@ -38,6 +38,7 @@ system: 5e
 - ### Small Beginnings
 	1. [[1.0 Just Another Job|Just Another Job]]
 	2. [[1.1 A Valiant Rescue|A Valiant Rescue]]
+	3. [[2.0 Return to Haven|Return to Haven]]
 
 
 ---

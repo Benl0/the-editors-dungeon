@@ -20,7 +20,8 @@ class:
 
 # Save Garde
 
-First encountered within the cultist cave performing a strange petrification ritual to [[Eliza Trotz|Eliza]].
+A cult, under the misguided belief that they are saving [[Garde World|Garde]]. First encountered within the cultist cave performing a strange petrification ritual to [[Eliza Trotz|Eliza]].
+
 The party was able to gleam some information from the cult leader before he died. The Crumbling Moon is trying to save [[Garde]], not sure how kidnapping and attempted murder qualifies, however...
 
 

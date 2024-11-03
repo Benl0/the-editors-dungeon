@@ -92,7 +92,7 @@ Eliza presents herself as a vision of regal grace, with flowing black hair, stri
 - **Skills:** Deception +15, Insight +11, Persuasion +15, Arcana +12
 - **Tools:** None
 
-## ==Features==
+## Features
 
 - **Aberrant Mind Sorcerer Features:**
 	- **Psionic Spells:** Eliza's spells include additional psionic-themed spells.

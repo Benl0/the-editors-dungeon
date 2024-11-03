@@ -19,6 +19,7 @@ campaign: Garde
 	- [[Story plan v2]]
 	- [[To Research]]
 	- [[Compelling Villains]]
+	- [[To Exploit]]
 - ## Inspiration
 	- [[Monster ideas]]
 - ## Reference
